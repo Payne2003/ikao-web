@@ -1,0 +1,36 @@
+@keyframes glow-green {
+    0% { box-shadow: 0 0 5px rgba(0, 255, 127, 0.3); }
+    50% { box-shadow: 0 0 20px rgba(0, 255, 127, 0.8); }
+    100% { box-shadow: 0 0 5px rgba(0, 255, 127, 0.3); }
+  }
+  
+  @keyframes glow-blue {
+    0% { box-shadow: 0 0 5px rgba(0, 123, 255, 0.3); }
+    50% { box-shadow: 0 0 20px rgba(0, 123, 255, 0.8); }
+    100% { box-shadow: 0 0 5px rgba(0, 123, 255, 0.3); }
+  }
+  
+  @keyframes glow-red {
+    0% { box-shadow: 0 0 5px rgba(255, 0, 0, 0.3); }
+    50% { box-shadow: 0 0 20px rgba(255, 0, 0, 0.8); }
+    100% { box-shadow: 0 0 5px rgba(255, 0, 0, 0.3); }
+  }
+  
+  @keyframes glow-purple {
+    0% { box-shadow: 0 0 5px rgba(186, 85, 211, 0.3); }
+    50% { box-shadow: 0 0 20px rgba(186, 85, 211, 0.8); }
+    100% { box-shadow: 0 0 5px rgba(186, 85, 211, 0.3); }
+  }
+  
+  @keyframes glow-orange {
+    0% { box-shadow: 0 0 5px rgba(255, 165, 0, 0.3); }
+    50% { box-shadow: 0 0 20px rgba(255, 165, 0, 0.8); }
+    100% { box-shadow: 0 0 5px rgba(255, 165, 0, 0.3); }
+  }
+  
+  .glow-green { animation: glow-green 2s infinite alternate; }
+  .glow-blue { animation: glow-blue 2s infinite alternate; }
+  .glow-red { animation: glow-red 2s infinite alternate; }
+  .glow-purple { animation: glow-purple 2s infinite alternate; }
+  .glow-orange { animation: glow-orange 2s infinite alternate; }
+  

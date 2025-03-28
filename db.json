@@ -1,0 +1,3220 @@
+{
+  "products_join_product-size": [
+    {
+      "id": 1,
+      "code": "P001",
+      "name": "Tủ trang trí nhỏ gọn gỗ MDF cao cấp",
+      "image": [
+        "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-1.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-1-1-300x238.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-1-2-300x253.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-1-3.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-4.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-5.jpg"
+      ],
+      "stock": 20,
+      "status": "Active",
+      "createAt": "2024-10-03",
+      "description": "Tủ trang trí nhỏ gọn gỗ MDF cao cấp GHS-52597 mang phong cách hiện đại, phù hợp với những không gian nội thất cần sự tinh tế và tiện nghi. Kích thước nhỏ gọn kết hợp với chất liệu gỗ MDF lõi xanh chống ẩm giúp sản phẩm vừa bền bỉ, vừa mang tính thẩm mỹ cao. Với thiết kế linh hoạt, mẫu tủ trang trí đáp ứng nhu cầu lưu trữ và tạo điểm nhấn cho căn phòng.",
+      "price": 12033428,
+      "product_sizes": [
+        {
+          "product_sizes_id": 1,
+          "name": "A-80x100x120",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-1-2-300x253.jpg",
+          "price": 203003329,
+          "stock": 10
+        },
+        {
+          "product_sizes_id": 2,
+          "name": "B-100x120x160",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-4.jpg",
+          "price": 1238712831,
+          "stock": 8
+        },
+        {
+          "product_sizes_id": 3,
+          "name": "c-200x300x230",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-5.jpg",
+          "price": 123413681283,
+          "stock": 15
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "code": "P002",
+      "name": "Bàn làm việc chữ L độc đáo",
+      "image": [
+        "https://gotrangtri.vn/wp-content/uploads/2023/04/avar-ban-lam-viec-chu-l-doc-dao-ghs-41852.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/04/avar-ban-lam-viec-chu-l-doc-dao-ghs-41852-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/04/ban-lam-viec-chu-l-doc-dao-ghs-41852-1-300x216.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/04/ban-lam-viec-chu-l-doc-dao-ghs-41852-2-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/04/ban-lam-viec-chu-l-doc-dao-ghs-41852-3-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/04/ban-lam-viec-chu-l-doc-dao-ghs-41852-6-300x212.jpg"
+      ],
+      "stock": 20,
+      "status": "Active",
+      "createAt": "2024-10-03",
+      "description": "Bàn làm việc chữ L độc đáo GHS-41852 có thiết kế ấn tượng với hình dáng chữ L được tạo nét mềm mại, uyển chuyển tạo ra không gian làm việc rộng rãi và thoải mái. Bàn làm việc được làm bằng chất liệu gỗ MDF cao cấp, phủ lớp melamine tinh tế, giúp bàn có độ bền cao và dễ dàng vệ sinh. Sản phẩm được thiết kế với đa dạng màu sắc và kích thước theo ý muốn khách hàng cho bạn thoải mái lựa chọn. ",
+      "price": 8500000,
+      "product_sizes": [
+        {
+          "product_sizes_id": 4,
+          "name": "A-80x100x120",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-1-2-300x253.jpg",
+          "price": 203003329,
+          "stock": 10
+        },
+        {
+          "product_sizes_id": 5,
+          "name": "B-100x120x160",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-4.jpg",
+          "price": 1238712831,
+          "stock": 8
+        },
+        {
+          "product_sizes_id": 6,
+          "name": "c-200x300x230",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-5.jpg",
+          "price": 123413681283,
+          "stock": 15
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "code": "P003",
+      "name": "Ghế sofa bọc da cao cấp thiết kế sang trọng",
+      "image": [
+        "https://gotrangtri.vn/wp-content/uploads/2022/08/ghe-sofa-boc-da-cao-cap-thiet-ke-sang-trong-ghs-8388-ava.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2022/08/O1CN01SMJV3h2DvpOzbfLYj_2112858672-1-277x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2022/08/O1CN01ZpQfFV2DvpP82GmPe_2112858672-1-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2022/08/O1CN018PKhs42DvpOzbi60z_2112858672-1-300x293.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2022/08/O1CN018PKhs42DvpOzbi60z_2112858672-1.jpg"
+      ],
+      "stock": 20,
+      "status": "Active",
+      "createAt": "2024-10-03",
+      "description": "Trải nghiệm không gian sống hiện đại, đẳng cấp ngay trong chính căn nhà của bạn với sản phẩm sofa mới nhất của gotrangtri.vn – ghế sofa bọc da cao cấp thiết kế sang trọng GHS-8388. Với ưu điểm vượt trội về chất lượng, thiết kế tinh tế, hoàn hảo đến từng chi tiết, ghế sofa bọc da cao cấp chắc chắn sẽ đáp ứng mọi mong muốn của bạn. Hãy nhanh tay liên hệ với chúng tôi để đem sản phẩm tuyệt vời này về với nhiều ưu đãi hấp dẫn nha. ",
+      "price": 1750000,
+      "product_sizes": [
+        {
+          "product_sizes_id": 7,
+          "name": "A-80x100x120",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-1-2-300x253.jpg",
+          "price": 203003329,
+          "stock": 10
+        },
+        {
+          "product_sizes_id": 8,
+          "name": "B-100x120x160",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-4.jpg",
+          "price": 1238712831,
+          "stock": 8
+        },
+        {
+          "product_sizes_id": 9,
+          "name": "c-200x300x230",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-5.jpg",
+          "price": 123413681283,
+          "stock": 15
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "code": "P004",
+      "name": "Giường hộc kéo 1m2 thiết kế hiện đại",
+      "image": [
+        "https://gotrangtri.vn/wp-content/uploads/2023/10/avar-Giuong-hoc-keo-1m2.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/10/avar-Giuong-hoc-keo-1m2-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/10/Giuong-hoc-keo-1m2-1-300x291.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/10/Giuong-hoc-keo-1m2-4-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/10/Giuong-hoc-keo-1m2-6.jpg"
+      ],
+      "stock": 20,
+      "status": "Active",
+      "createAt": "2024-10-03",
+      "description": "Bạn đang cần một chiếc giường đơn nhỏ gọn, tiện lợi và đẹp mắt cho phòng ngủ của mình? Bạn đang quan tâm đến sản phẩm Giường hộc kéo 1m2 thiết kế hiện đại GHS-9288 của Gỗ Trang Trí? Nếu bạn có những câu hỏi trên, thì hãy cùng tôi khám phá những ưu điểm của sản phẩm này nhé!",
+      "price": 14500000,
+      "product_sizes": [
+        {
+          "product_sizes_id": 10,
+          "name": "A-80x100x120",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-1-2-300x253.jpg",
+          "price": 203003329,
+          "stock": 10
+        },
+        {
+          "product_sizes_id": 11,
+          "name": "B-100x120x160",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-4.jpg",
+          "price": 1238712831,
+          "stock": 8
+        },
+        {
+          "product_sizes_id": 12,
+          "name": "c-200x300x230",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-5.jpg",
+          "price": 123413681283,
+          "stock": 15
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "code": "P005",
+      "name": "Tủ quần áo vintage đẹp, thiết kế hiện đại",
+      "image": [
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/avar-tu-quan-ao-vintage-ghs-52372-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-1-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-2-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-4-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-5-300x300.jpg"
+      ],
+      "stock": 20,
+      "status": "Active",
+      "createAt": "2024-10-03",
+      "description": "là sự kết hợp hoàn hảo giữa phong cách cổ điển và tính năng tiện nghi hiện đại. Với thiết kế cánh mây độc đáo, chất liệu gỗ cao cấp và khả năng lưu trữ khoa học, sản phẩm mang đến vẻ đẹp tinh tế và sang trọng cho không gian sống. Hãy cùng khám phá các ưu điểm nổi bật của tủ áo GHS-52372 ngay sau đây!",
+      "price": 9500000,
+      "product_sizes": [
+        {
+          "product_sizes_id": 13,
+          "name": "A-80x100x120",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-1-2-300x253.jpg",
+          "price": 203003329,
+          "stock": 10
+        },
+        {
+          "product_sizes_id": 14,
+          "name": "B-100x120x160",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-4.jpg",
+          "price": 1238712831,
+          "stock": 8
+        },
+        {
+          "product_sizes_id": 15,
+          "name": "c-200x300x230",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-5.jpg",
+          "price": 123413681283,
+          "stock": 15
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "code": "P006",
+      "name": "Tủ trang trí nhỏ gọn gỗ MDF cao cấp",
+      "image": [
+        "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-1.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-1-1-300x238.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-1-2-300x253.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-1-3.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-4.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-5.jpg"
+      ],
+      "stock": 20,
+      "status": "Active",
+      "createAt": "2024-10-03",
+      "description": "Tủ trang trí nhỏ gọn gỗ MDF cao cấp GHS-52597 mang phong cách hiện đại, phù hợp với những không gian nội thất cần sự tinh tế và tiện nghi. Kích thước nhỏ gọn kết hợp với chất liệu gỗ MDF lõi xanh chống ẩm giúp sản phẩm vừa bền bỉ, vừa mang tính thẩm mỹ cao. Với thiết kế linh hoạt, mẫu tủ trang trí đáp ứng nhu cầu lưu trữ và tạo điểm nhấn cho căn phòng.",
+      "price": 12033428,
+      "product_sizes": [
+        {
+          "product_sizes_id": 16,
+          "name": "A-80x100x120",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-1-2-300x253.jpg",
+          "price": 203003329,
+          "stock": 10
+        },
+        {
+          "product_sizes_id": 17,
+          "name": "B-100x120x160",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-4.jpg",
+          "price": 1238712831,
+          "stock": 8
+        },
+        {
+          "product_sizes_id": 18,
+          "name": "c-200x300x230",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-5.jpg",
+          "price": 123413681283,
+          "stock": 15
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "code": "P007",
+      "name": "Bàn làm việc chữ L độc đáo",
+      "image": [
+        "https://gotrangtri.vn/wp-content/uploads/2023/04/avar-ban-lam-viec-chu-l-doc-dao-ghs-41852.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/04/avar-ban-lam-viec-chu-l-doc-dao-ghs-41852-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/04/ban-lam-viec-chu-l-doc-dao-ghs-41852-1-300x216.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/04/ban-lam-viec-chu-l-doc-dao-ghs-41852-2-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/04/ban-lam-viec-chu-l-doc-dao-ghs-41852-3-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/04/ban-lam-viec-chu-l-doc-dao-ghs-41852-6-300x212.jpg"
+      ],
+      "stock": 20,
+      "status": "Active",
+      "createAt": "2024-10-03",
+      "description": "Bàn làm việc chữ L độc đáo GHS-41852 có thiết kế ấn tượng với hình dáng chữ L được tạo nét mềm mại, uyển chuyển tạo ra không gian làm việc rộng rãi và thoải mái. Bàn làm việc được làm bằng chất liệu gỗ MDF cao cấp, phủ lớp melamine tinh tế, giúp bàn có độ bền cao và dễ dàng vệ sinh. Sản phẩm được thiết kế với đa dạng màu sắc và kích thước theo ý muốn khách hàng cho bạn thoải mái lựa chọn. ",
+      "price": 8500000,
+      "product_sizes": [
+        {
+          "product_sizes_id": 19,
+          "name": "A-80x100x120",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-1-2-300x253.jpg",
+          "price": 203003329,
+          "stock": 10
+        },
+        {
+          "product_sizes_id": 20,
+          "name": "B-100x120x160",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-4.jpg",
+          "price": 1238712831,
+          "stock": 8
+        },
+        {
+          "product_sizes_id": 21,
+          "name": "c-200x300x230",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-5.jpg",
+          "price": 123413681283,
+          "stock": 15
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "code": "P008",
+      "name": "Ghế sofa bọc da cao cấp thiết kế sang trọng",
+      "image": [
+        "https://gotrangtri.vn/wp-content/uploads/2022/08/ghe-sofa-boc-da-cao-cap-thiet-ke-sang-trong-ghs-8388-ava.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2022/08/O1CN01SMJV3h2DvpOzbfLYj_2112858672-1-277x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2022/08/O1CN01ZpQfFV2DvpP82GmPe_2112858672-1-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2022/08/O1CN018PKhs42DvpOzbi60z_2112858672-1-300x293.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2022/08/O1CN018PKhs42DvpOzbi60z_2112858672-1.jpg"
+      ],
+      "stock": 20,
+      "status": "Active",
+      "createAt": "2024-10-03",
+      "description": "Trải nghiệm không gian sống hiện đại, đẳng cấp ngay trong chính căn nhà của bạn với sản phẩm sofa mới nhất của gotrangtri.vn – ghế sofa bọc da cao cấp thiết kế sang trọng GHS-8388. Với ưu điểm vượt trội về chất lượng, thiết kế tinh tế, hoàn hảo đến từng chi tiết, ghế sofa bọc da cao cấp chắc chắn sẽ đáp ứng mọi mong muốn của bạn. Hãy nhanh tay liên hệ với chúng tôi để đem sản phẩm tuyệt vời này về với nhiều ưu đãi hấp dẫn nha. ",
+      "price": 1750000,
+      "product_sizes": [
+        {
+          "product_sizes_id": 22,
+          "name": "A-80x100x120",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-1-2-300x253.jpg",
+          "price": 203003329,
+          "stock": 10
+        },
+        {
+          "product_sizes_id": 23,
+          "name": "B-100x120x160",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-4.jpg",
+          "price": 1238712831,
+          "stock": 8
+        },
+        {
+          "product_sizes_id": 24,
+          "name": "c-200x300x230",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-5.jpg",
+          "price": 123413681283,
+          "stock": 15
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "code": "P009",
+      "name": "Giường hộc kéo 1m2 thiết kế hiện đại",
+      "image": [
+        "https://gotrangtri.vn/wp-content/uploads/2023/10/avar-Giuong-hoc-keo-1m2.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/10/avar-Giuong-hoc-keo-1m2-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/10/Giuong-hoc-keo-1m2-1-300x291.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/10/Giuong-hoc-keo-1m2-4-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/10/Giuong-hoc-keo-1m2-6.jpg"
+      ],
+      "stock": 20,
+      "status": "Active",
+      "createAt": "2024-10-03",
+      "description": "Bạn đang cần một chiếc giường đơn nhỏ gọn, tiện lợi và đẹp mắt cho phòng ngủ của mình? Bạn đang quan tâm đến sản phẩm Giường hộc kéo 1m2 thiết kế hiện đại GHS-9288 của Gỗ Trang Trí? Nếu bạn có những câu hỏi trên, thì hãy cùng tôi khám phá những ưu điểm của sản phẩm này nhé!",
+      "price": 14500000,
+      "product_sizes": [
+        {
+          "product_sizes_id": 25,
+          "name": "A-80x100x120",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-1-2-300x253.jpg",
+          "price": 203003329,
+          "stock": 10
+        },
+        {
+          "product_sizes_id": 26,
+          "name": "B-100x120x160",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-4.jpg",
+          "price": 1238712831,
+          "stock": 8
+        },
+        {
+          "product_sizes_id": 27,
+          "name": "c-200x300x230",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-5.jpg",
+          "price": 123413681283,
+          "stock": 15
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "code": "P010",
+      "name": "Tủ quần áo vintage đẹp, thiết kế hiện đại",
+      "image": [
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/avar-tu-quan-ao-vintage-ghs-52372-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-1-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-2-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-4-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-5-300x300.jpg"
+      ],
+      "stock": 20,
+      "status": "Active",
+      "createAt": "2024-10-03",
+      "description": "là sự kết hợp hoàn hảo giữa phong cách cổ điển và tính năng tiện nghi hiện đại. Với thiết kế cánh mây độc đáo, chất liệu gỗ cao cấp và khả năng lưu trữ khoa học, sản phẩm mang đến vẻ đẹp tinh tế và sang trọng cho không gian sống. Hãy cùng khám phá các ưu điểm nổi bật của tủ áo GHS-52372 ngay sau đây!",
+      "price": 9500000,
+      "product_sizes": [
+        {
+          "product_sizes_id": 28,
+          "name": "A-80x100x120",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-1-2-300x253.jpg",
+          "price": 203003329,
+          "stock": 10
+        },
+        {
+          "product_sizes_id": 29,
+          "name": "B-100x120x160",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-4.jpg",
+          "price": 1238712831,
+          "stock": 8
+        },
+        {
+          "product_sizes_id": 30,
+          "name": "c-200x300x230",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-5.jpg",
+          "price": 123413681283,
+          "stock": 15
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "code": "P011",
+      "name": "Tủ trang trí nhỏ gọn gỗ MDF cao cấp",
+      "image": [
+        "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-1.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-1-1-300x238.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-1-2-300x253.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-1-3.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-4.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-5.jpg"
+      ],
+      "stock": 20,
+      "status": "Active",
+      "createAt": "2024-10-03",
+      "description": "Tủ trang trí nhỏ gọn gỗ MDF cao cấp GHS-52597 mang phong cách hiện đại, phù hợp với những không gian nội thất cần sự tinh tế và tiện nghi. Kích thước nhỏ gọn kết hợp với chất liệu gỗ MDF lõi xanh chống ẩm giúp sản phẩm vừa bền bỉ, vừa mang tính thẩm mỹ cao. Với thiết kế linh hoạt, mẫu tủ trang trí đáp ứng nhu cầu lưu trữ và tạo điểm nhấn cho căn phòng.",
+      "price": 12033428,
+      "product_sizes": [
+        {
+          "product_sizes_id": 31,
+          "name": "A-80x100x120",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-1-2-300x253.jpg",
+          "price": 203003329,
+          "stock": 10
+        },
+        {
+          "product_sizes_id": 32,
+          "name": "B-100x120x160",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-4.jpg",
+          "price": 1238712831,
+          "stock": 8
+        },
+        {
+          "product_sizes_id": 33,
+          "name": "c-200x300x230",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-5.jpg",
+          "price": 123413681283,
+          "stock": 15
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "code": "P012",
+      "name": "Bàn làm việc chữ L độc đáo",
+      "image": [
+        "https://gotrangtri.vn/wp-content/uploads/2023/04/avar-ban-lam-viec-chu-l-doc-dao-ghs-41852.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/04/avar-ban-lam-viec-chu-l-doc-dao-ghs-41852-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/04/ban-lam-viec-chu-l-doc-dao-ghs-41852-1-300x216.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/04/ban-lam-viec-chu-l-doc-dao-ghs-41852-2-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/04/ban-lam-viec-chu-l-doc-dao-ghs-41852-3-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/04/ban-lam-viec-chu-l-doc-dao-ghs-41852-6-300x212.jpg"
+      ],
+      "stock": 20,
+      "status": "Active",
+      "createAt": "2024-10-03",
+      "description": "Bàn làm việc chữ L độc đáo GHS-41852 có thiết kế ấn tượng với hình dáng chữ L được tạo nét mềm mại, uyển chuyển tạo ra không gian làm việc rộng rãi và thoải mái. Bàn làm việc được làm bằng chất liệu gỗ MDF cao cấp, phủ lớp melamine tinh tế, giúp bàn có độ bền cao và dễ dàng vệ sinh. Sản phẩm được thiết kế với đa dạng màu sắc và kích thước theo ý muốn khách hàng cho bạn thoải mái lựa chọn. ",
+      "price": 8500000,
+      "product_sizes": [
+        {
+          "product_sizes_id": 34,
+          "name": "A-80x100x120",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-1-2-300x253.jpg",
+          "price": 203003329,
+          "stock": 10
+        },
+        {
+          "product_sizes_id": 35,
+          "name": "B-100x120x160",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-4.jpg",
+          "price": 1238712831,
+          "stock": 8
+        },
+        {
+          "product_sizes_id": 36,
+          "name": "c-200x300x230",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-5.jpg",
+          "price": 123413681283,
+          "stock": 15
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "code": "P013",
+      "name": "Ghế sofa bọc da cao cấp thiết kế sang trọng",
+      "image": [
+        "https://gotrangtri.vn/wp-content/uploads/2022/08/ghe-sofa-boc-da-cao-cap-thiet-ke-sang-trong-ghs-8388-ava.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2022/08/O1CN01SMJV3h2DvpOzbfLYj_2112858672-1-277x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2022/08/O1CN01ZpQfFV2DvpP82GmPe_2112858672-1-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2022/08/O1CN018PKhs42DvpOzbi60z_2112858672-1-300x293.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2022/08/O1CN018PKhs42DvpOzbi60z_2112858672-1.jpg"
+      ],
+      "stock": 20,
+      "status": "Active",
+      "createAt": "2024-10-03",
+      "description": "Trải nghiệm không gian sống hiện đại, đẳng cấp ngay trong chính căn nhà của bạn với sản phẩm sofa mới nhất của gotrangtri.vn – ghế sofa bọc da cao cấp thiết kế sang trọng GHS-8388. Với ưu điểm vượt trội về chất lượng, thiết kế tinh tế, hoàn hảo đến từng chi tiết, ghế sofa bọc da cao cấp chắc chắn sẽ đáp ứng mọi mong muốn của bạn. Hãy nhanh tay liên hệ với chúng tôi để đem sản phẩm tuyệt vời này về với nhiều ưu đãi hấp dẫn nha. ",
+      "price": 1750000,
+      "product_sizes": [
+        {
+          "product_sizes_id": 37,
+          "name": "A-80x100x120",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-1-2-300x253.jpg",
+          "price": 203003329,
+          "stock": 10
+        },
+        {
+          "product_sizes_id": 38,
+          "name": "B-100x120x160",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-4.jpg",
+          "price": 1238712831,
+          "stock": 8
+        },
+        {
+          "product_sizes_id": 39,
+          "name": "c-200x300x230",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-5.jpg",
+          "price": 123413681283,
+          "stock": 15
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "code": "P014",
+      "name": "Giường hộc kéo 1m2 thiết kế hiện đại",
+      "image": [
+        "https://gotrangtri.vn/wp-content/uploads/2023/10/avar-Giuong-hoc-keo-1m2.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/10/avar-Giuong-hoc-keo-1m2-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/10/Giuong-hoc-keo-1m2-1-300x291.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/10/Giuong-hoc-keo-1m2-4-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/10/Giuong-hoc-keo-1m2-6.jpg"
+      ],
+      "stock": 20,
+      "status": "Active",
+      "createAt": "2024-10-03",
+      "description": "Bạn đang cần một chiếc giường đơn nhỏ gọn, tiện lợi và đẹp mắt cho phòng ngủ của mình? Bạn đang quan tâm đến sản phẩm Giường hộc kéo 1m2 thiết kế hiện đại GHS-9288 của Gỗ Trang Trí? Nếu bạn có những câu hỏi trên, thì hãy cùng tôi khám phá những ưu điểm của sản phẩm này nhé!",
+      "price": 14500000,
+      "product_sizes": [
+        {
+          "product_sizes_id": 1,
+          "name": "A-80x100x120",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-1-2-300x253.jpg",
+          "price": 203003329,
+          "stock": 10
+        },
+        {
+          "product_sizes_id": 1,
+          "name": "B-100x120x160",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-4.jpg",
+          "price": 1238712831,
+          "stock": 8
+        },
+        {
+          "product_sizes_id": 2,
+          "name": "c-200x300x230",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-5.jpg",
+          "price": 123413681283,
+          "stock": 15
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "code": "P015",
+      "name": "Tủ quần áo vintage đẹp, thiết kế hiện đại",
+      "image": [
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/avar-tu-quan-ao-vintage-ghs-52372-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-1-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-2-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-4-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-5-300x300.jpg"
+      ],
+      "stock": 20,
+      "status": "Active",
+      "createAt": "2024-10-03",
+      "description": "là sự kết hợp hoàn hảo giữa phong cách cổ điển và tính năng tiện nghi hiện đại. Với thiết kế cánh mây độc đáo, chất liệu gỗ cao cấp và khả năng lưu trữ khoa học, sản phẩm mang đến vẻ đẹp tinh tế và sang trọng cho không gian sống. Hãy cùng khám phá các ưu điểm nổi bật của tủ áo GHS-52372 ngay sau đây!",
+      "price": 9500000,
+      "product_sizes": [
+        {
+          "product_sizes_id": 1,
+          "name": "A-80x100x120",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-1-2-300x253.jpg",
+          "price": 203003329,
+          "stock": 10
+        },
+        {
+          "product_sizes_id": 1,
+          "name": "B-100x120x160",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-4.jpg",
+          "price": 1238712831,
+          "stock": 8
+        },
+        {
+          "product_sizes_id": 2,
+          "name": "c-200x300x230",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-5.jpg",
+          "price": 123413681283,
+          "stock": 15
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "code": "P016",
+      "name": "Tủ trang trí nhỏ gọn gỗ MDF cao cấp",
+      "image": [
+        "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-1.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-1-1-300x238.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-1-2-300x253.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-1-3.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-4.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-5.jpg"
+      ],
+      "stock": 20,
+      "status": "Active",
+      "createAt": "2024-10-03",
+      "description": "Tủ trang trí nhỏ gọn gỗ MDF cao cấp GHS-52597 mang phong cách hiện đại, phù hợp với những không gian nội thất cần sự tinh tế và tiện nghi. Kích thước nhỏ gọn kết hợp với chất liệu gỗ MDF lõi xanh chống ẩm giúp sản phẩm vừa bền bỉ, vừa mang tính thẩm mỹ cao. Với thiết kế linh hoạt, mẫu tủ trang trí đáp ứng nhu cầu lưu trữ và tạo điểm nhấn cho căn phòng.",
+      "price": 12033428,
+      "product_sizes": [
+        {
+          "product_sizes_id": 1,
+          "name": "A-80x100x120",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-1-2-300x253.jpg",
+          "price": 203003329,
+          "stock": 10
+        },
+        {
+          "product_sizes_id": 1,
+          "name": "B-100x120x160",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-4.jpg",
+          "price": 1238712831,
+          "stock": 8
+        },
+        {
+          "product_sizes_id": 2,
+          "name": "c-200x300x230",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-5.jpg",
+          "price": 123413681283,
+          "stock": 15
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "code": "P017",
+      "name": "Bàn làm việc chữ L độc đáo",
+      "image": [
+        "https://gotrangtri.vn/wp-content/uploads/2023/04/avar-ban-lam-viec-chu-l-doc-dao-ghs-41852.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/04/avar-ban-lam-viec-chu-l-doc-dao-ghs-41852-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/04/ban-lam-viec-chu-l-doc-dao-ghs-41852-1-300x216.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/04/ban-lam-viec-chu-l-doc-dao-ghs-41852-2-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/04/ban-lam-viec-chu-l-doc-dao-ghs-41852-3-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/04/ban-lam-viec-chu-l-doc-dao-ghs-41852-6-300x212.jpg"
+      ],
+      "stock": 20,
+      "status": "Active",
+      "createAt": "2024-10-03",
+      "description": "Bàn làm việc chữ L độc đáo GHS-41852 có thiết kế ấn tượng với hình dáng chữ L được tạo nét mềm mại, uyển chuyển tạo ra không gian làm việc rộng rãi và thoải mái. Bàn làm việc được làm bằng chất liệu gỗ MDF cao cấp, phủ lớp melamine tinh tế, giúp bàn có độ bền cao và dễ dàng vệ sinh. Sản phẩm được thiết kế với đa dạng màu sắc và kích thước theo ý muốn khách hàng cho bạn thoải mái lựa chọn. ",
+      "price": 8500000,
+      "product_sizes": [
+        {
+          "product_sizes_id": 1,
+          "name": "A-80x100x120",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-1-2-300x253.jpg",
+          "price": 203003329,
+          "stock": 10
+        },
+        {
+          "product_sizes_id": 1,
+          "name": "B-100x120x160",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-4.jpg",
+          "price": 1238712831,
+          "stock": 8
+        },
+        {
+          "product_sizes_id": 2,
+          "name": "c-200x300x230",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-5.jpg",
+          "price": 123413681283,
+          "stock": 15
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "code": "P018",
+      "name": "Ghế sofa bọc da cao cấp thiết kế sang trọng",
+      "image": [
+        "https://gotrangtri.vn/wp-content/uploads/2022/08/ghe-sofa-boc-da-cao-cap-thiet-ke-sang-trong-ghs-8388-ava.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2022/08/O1CN01SMJV3h2DvpOzbfLYj_2112858672-1-277x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2022/08/O1CN01ZpQfFV2DvpP82GmPe_2112858672-1-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2022/08/O1CN018PKhs42DvpOzbi60z_2112858672-1-300x293.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2022/08/O1CN018PKhs42DvpOzbi60z_2112858672-1.jpg"
+      ],
+      "stock": 20,
+      "status": "Active",
+      "createAt": "2024-10-03",
+      "description": "Trải nghiệm không gian sống hiện đại, đẳng cấp ngay trong chính căn nhà của bạn với sản phẩm sofa mới nhất của gotrangtri.vn – ghế sofa bọc da cao cấp thiết kế sang trọng GHS-8388. Với ưu điểm vượt trội về chất lượng, thiết kế tinh tế, hoàn hảo đến từng chi tiết, ghế sofa bọc da cao cấp chắc chắn sẽ đáp ứng mọi mong muốn của bạn. Hãy nhanh tay liên hệ với chúng tôi để đem sản phẩm tuyệt vời này về với nhiều ưu đãi hấp dẫn nha. ",
+      "price": 1750000,
+      "product_sizes": [
+        {
+          "product_sizes_id": 1,
+          "name": "A-80x100x120",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-1-2-300x253.jpg",
+          "price": 203003329,
+          "stock": 10
+        },
+        {
+          "product_sizes_id": 1,
+          "name": "B-100x120x160",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-4.jpg",
+          "price": 1238712831,
+          "stock": 8
+        },
+        {
+          "product_sizes_id": 2,
+          "name": "c-200x300x230",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-5.jpg",
+          "price": 123413681283,
+          "stock": 15
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "code": "P019",
+      "name": "Giường hộc kéo 1m2 thiết kế hiện đại",
+      "image": [
+        "https://gotrangtri.vn/wp-content/uploads/2023/10/avar-Giuong-hoc-keo-1m2.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/10/avar-Giuong-hoc-keo-1m2-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/10/Giuong-hoc-keo-1m2-1-300x291.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/10/Giuong-hoc-keo-1m2-4-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/10/Giuong-hoc-keo-1m2-6.jpg"
+      ],
+      "stock": 20,
+      "status": "Active",
+      "createAt": "2024-10-03",
+      "description": "Bạn đang cần một chiếc giường đơn nhỏ gọn, tiện lợi và đẹp mắt cho phòng ngủ của mình? Bạn đang quan tâm đến sản phẩm Giường hộc kéo 1m2 thiết kế hiện đại GHS-9288 của Gỗ Trang Trí? Nếu bạn có những câu hỏi trên, thì hãy cùng tôi khám phá những ưu điểm của sản phẩm này nhé!",
+      "price": 14500000,
+      "product_sizes": [
+        {
+          "product_sizes_id": 1,
+          "name": "A-80x100x120",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-1-2-300x253.jpg",
+          "price": 203003329,
+          "stock": 10
+        },
+        {
+          "product_sizes_id": 1,
+          "name": "B-100x120x160",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-4.jpg",
+          "price": 1238712831,
+          "stock": 8
+        },
+        {
+          "product_sizes_id": 2,
+          "name": "c-200x300x230",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-5.jpg",
+          "price": 123413681283,
+          "stock": 15
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "code": "P020",
+      "name": "Tủ quần áo vintage đẹp, thiết kế hiện đại",
+      "image": [
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/avar-tu-quan-ao-vintage-ghs-52372-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-1-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-2-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-4-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-5-300x300.jpg"
+      ],
+      "stock": 20,
+      "status": "Active",
+      "createAt": "2024-10-03",
+      "description": "là sự kết hợp hoàn hảo giữa phong cách cổ điển và tính năng tiện nghi hiện đại. Với thiết kế cánh mây độc đáo, chất liệu gỗ cao cấp và khả năng lưu trữ khoa học, sản phẩm mang đến vẻ đẹp tinh tế và sang trọng cho không gian sống. Hãy cùng khám phá các ưu điểm nổi bật của tủ áo GHS-52372 ngay sau đây!",
+      "price": 9500000,
+      "product_sizes": [
+        {
+          "product_sizes_id": 1,
+          "name": "A-80x100x120",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-1-2-300x253.jpg",
+          "price": 203003329,
+          "stock": 10
+        },
+        {
+          "product_sizes_id": 1,
+          "name": "B-100x120x160",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-4.jpg",
+          "price": 1238712831,
+          "stock": 8
+        },
+        {
+          "product_sizes_id": 2,
+          "name": "c-200x300x230",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-5.jpg",
+          "price": 123413681283,
+          "stock": 15
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "code": "P021",
+      "name": "Tủ trang trí nhỏ gọn gỗ MDF cao cấp",
+      "image": [
+        "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-1.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-1-1-300x238.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-1-2-300x253.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-1-3.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-4.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-5.jpg"
+      ],
+      "stock": 20,
+      "status": "Active",
+      "createAt": "2024-10-03",
+      "description": "Tủ trang trí nhỏ gọn gỗ MDF cao cấp GHS-52597 mang phong cách hiện đại, phù hợp với những không gian nội thất cần sự tinh tế và tiện nghi. Kích thước nhỏ gọn kết hợp với chất liệu gỗ MDF lõi xanh chống ẩm giúp sản phẩm vừa bền bỉ, vừa mang tính thẩm mỹ cao. Với thiết kế linh hoạt, mẫu tủ trang trí đáp ứng nhu cầu lưu trữ và tạo điểm nhấn cho căn phòng.",
+      "price": 12033428,
+      "product_sizes": [
+        {
+          "product_sizes_id": 1,
+          "name": "A-80x100x120",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-1-2-300x253.jpg",
+          "price": 203003329,
+          "stock": 10
+        },
+        {
+          "product_sizes_id": 1,
+          "name": "B-100x120x160",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-4.jpg",
+          "price": 1238712831,
+          "stock": 8
+        },
+        {
+          "product_sizes_id": 2,
+          "name": "c-200x300x230",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-5.jpg",
+          "price": 123413681283,
+          "stock": 15
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "code": "P022",
+      "name": "Bàn làm việc chữ L độc đáo",
+      "image": [
+        "https://gotrangtri.vn/wp-content/uploads/2023/04/avar-ban-lam-viec-chu-l-doc-dao-ghs-41852.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/04/avar-ban-lam-viec-chu-l-doc-dao-ghs-41852-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/04/ban-lam-viec-chu-l-doc-dao-ghs-41852-1-300x216.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/04/ban-lam-viec-chu-l-doc-dao-ghs-41852-2-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/04/ban-lam-viec-chu-l-doc-dao-ghs-41852-3-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/04/ban-lam-viec-chu-l-doc-dao-ghs-41852-6-300x212.jpg"
+      ],
+      "stock": 20,
+      "status": "Active",
+      "createAt": "2024-10-03",
+      "description": "Bàn làm việc chữ L độc đáo GHS-41852 có thiết kế ấn tượng với hình dáng chữ L được tạo nét mềm mại, uyển chuyển tạo ra không gian làm việc rộng rãi và thoải mái. Bàn làm việc được làm bằng chất liệu gỗ MDF cao cấp, phủ lớp melamine tinh tế, giúp bàn có độ bền cao và dễ dàng vệ sinh. Sản phẩm được thiết kế với đa dạng màu sắc và kích thước theo ý muốn khách hàng cho bạn thoải mái lựa chọn. ",
+      "price": 8500000,
+      "product_sizes": [
+        {
+          "product_sizes_id": 1,
+          "name": "A-80x100x120",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-1-2-300x253.jpg",
+          "price": 203003329,
+          "stock": 10
+        },
+        {
+          "product_sizes_id": 1,
+          "name": "B-100x120x160",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-4.jpg",
+          "price": 1238712831,
+          "stock": 8
+        },
+        {
+          "product_sizes_id": 2,
+          "name": "c-200x300x230",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-5.jpg",
+          "price": 123413681283,
+          "stock": 15
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "code": "P023",
+      "name": "Ghế sofa bọc da cao cấp thiết kế sang trọng",
+      "image": [
+        "https://gotrangtri.vn/wp-content/uploads/2022/08/ghe-sofa-boc-da-cao-cap-thiet-ke-sang-trong-ghs-8388-ava.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2022/08/O1CN01SMJV3h2DvpOzbfLYj_2112858672-1-277x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2022/08/O1CN01ZpQfFV2DvpP82GmPe_2112858672-1-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2022/08/O1CN018PKhs42DvpOzbi60z_2112858672-1-300x293.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2022/08/O1CN018PKhs42DvpOzbi60z_2112858672-1.jpg"
+      ],
+      "stock": 20,
+      "status": "Active",
+      "createAt": "2024-10-03",
+      "description": "Trải nghiệm không gian sống hiện đại, đẳng cấp ngay trong chính căn nhà của bạn với sản phẩm sofa mới nhất của gotrangtri.vn – ghế sofa bọc da cao cấp thiết kế sang trọng GHS-8388. Với ưu điểm vượt trội về chất lượng, thiết kế tinh tế, hoàn hảo đến từng chi tiết, ghế sofa bọc da cao cấp chắc chắn sẽ đáp ứng mọi mong muốn của bạn. Hãy nhanh tay liên hệ với chúng tôi để đem sản phẩm tuyệt vời này về với nhiều ưu đãi hấp dẫn nha. ",
+      "price": 1750000,
+      "product_sizes": [
+        {
+          "product_sizes_id": 1,
+          "name": "A-80x100x120",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-1-2-300x253.jpg",
+          "price": 203003329,
+          "stock": 10
+        },
+        {
+          "product_sizes_id": 1,
+          "name": "B-100x120x160",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-4.jpg",
+          "price": 1238712831,
+          "stock": 8
+        },
+        {
+          "product_sizes_id": 2,
+          "name": "c-200x300x230",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-5.jpg",
+          "price": 123413681283,
+          "stock": 15
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "code": "P024",
+      "name": "Giường hộc kéo 1m2 thiết kế hiện đại",
+      "image": [
+        "https://gotrangtri.vn/wp-content/uploads/2023/10/avar-Giuong-hoc-keo-1m2.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/10/avar-Giuong-hoc-keo-1m2-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/10/Giuong-hoc-keo-1m2-1-300x291.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/10/Giuong-hoc-keo-1m2-4-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/10/Giuong-hoc-keo-1m2-6.jpg"
+      ],
+      "stock": 20,
+      "status": "Active",
+      "createAt": "2024-10-03",
+      "description": "Bạn đang cần một chiếc giường đơn nhỏ gọn, tiện lợi và đẹp mắt cho phòng ngủ của mình? Bạn đang quan tâm đến sản phẩm Giường hộc kéo 1m2 thiết kế hiện đại GHS-9288 của Gỗ Trang Trí? Nếu bạn có những câu hỏi trên, thì hãy cùng tôi khám phá những ưu điểm của sản phẩm này nhé!",
+      "price": 14500000,
+      "product_sizes": [
+        {
+          "product_sizes_id": 1,
+          "name": "A-80x100x120",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-1-2-300x253.jpg",
+          "price": 203003329,
+          "stock": 10
+        },
+        {
+          "product_sizes_id": 1,
+          "name": "B-100x120x160",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-4.jpg",
+          "price": 1238712831,
+          "stock": 8
+        },
+        {
+          "product_sizes_id": 2,
+          "name": "c-200x300x230",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-5.jpg",
+          "price": 123413681283,
+          "stock": 15
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "code": "P025",
+      "name": "Tủ quần áo vintage đẹp, thiết kế hiện đại",
+      "image": [
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/avar-tu-quan-ao-vintage-ghs-52372-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-1-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-2-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-4-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-5-300x300.jpg"
+      ],
+      "stock": 20,
+      "status": "Active",
+      "createAt": "2024-10-03",
+      "description": "là sự kết hợp hoàn hảo giữa phong cách cổ điển và tính năng tiện nghi hiện đại. Với thiết kế cánh mây độc đáo, chất liệu gỗ cao cấp và khả năng lưu trữ khoa học, sản phẩm mang đến vẻ đẹp tinh tế và sang trọng cho không gian sống. Hãy cùng khám phá các ưu điểm nổi bật của tủ áo GHS-52372 ngay sau đây!",
+      "price": 9500000,
+      "product_sizes": [
+        {
+          "product_sizes_id": 1,
+          "name": "A-80x100x120",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-1-2-300x253.jpg",
+          "price": 203003329,
+          "stock": 10
+        },
+        {
+          "product_sizes_id": 1,
+          "name": "B-100x120x160",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-4.jpg",
+          "price": 1238712831,
+          "stock": 8
+        },
+        {
+          "product_sizes_id": 2,
+          "name": "c-200x300x230",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-5.jpg",
+          "price": 123413681283,
+          "stock": 15
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "code": "P026",
+      "name": "Tủ trang trí nhỏ gọn gỗ MDF cao cấp",
+      "image": [
+        "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-1.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-1-1-300x238.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-1-2-300x253.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-1-3.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-4.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-5.jpg"
+      ],
+      "stock": 20,
+      "status": "Active",
+      "createAt": "2024-10-03",
+      "description": "Tủ trang trí nhỏ gọn gỗ MDF cao cấp GHS-52597 mang phong cách hiện đại, phù hợp với những không gian nội thất cần sự tinh tế và tiện nghi. Kích thước nhỏ gọn kết hợp với chất liệu gỗ MDF lõi xanh chống ẩm giúp sản phẩm vừa bền bỉ, vừa mang tính thẩm mỹ cao. Với thiết kế linh hoạt, mẫu tủ trang trí đáp ứng nhu cầu lưu trữ và tạo điểm nhấn cho căn phòng.",
+      "price": 12033428,
+      "product_sizes": [
+        {
+          "product_sizes_id": 1,
+          "name": "A-80x100x120",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-1-2-300x253.jpg",
+          "price": 203003329,
+          "stock": 10
+        },
+        {
+          "product_sizes_id": 1,
+          "name": "B-100x120x160",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-4.jpg",
+          "price": 1238712831,
+          "stock": 8
+        },
+        {
+          "product_sizes_id": 2,
+          "name": "c-200x300x230",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-5.jpg",
+          "price": 123413681283,
+          "stock": 15
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "code": "P027",
+      "name": "Bàn làm việc chữ L độc đáo",
+      "image": [
+        "https://gotrangtri.vn/wp-content/uploads/2023/04/avar-ban-lam-viec-chu-l-doc-dao-ghs-41852.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/04/avar-ban-lam-viec-chu-l-doc-dao-ghs-41852-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/04/ban-lam-viec-chu-l-doc-dao-ghs-41852-1-300x216.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/04/ban-lam-viec-chu-l-doc-dao-ghs-41852-2-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/04/ban-lam-viec-chu-l-doc-dao-ghs-41852-3-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/04/ban-lam-viec-chu-l-doc-dao-ghs-41852-6-300x212.jpg"
+      ],
+      "stock": 20,
+      "status": "Active",
+      "createAt": "2024-10-03",
+      "description": "Bàn làm việc chữ L độc đáo GHS-41852 có thiết kế ấn tượng với hình dáng chữ L được tạo nét mềm mại, uyển chuyển tạo ra không gian làm việc rộng rãi và thoải mái. Bàn làm việc được làm bằng chất liệu gỗ MDF cao cấp, phủ lớp melamine tinh tế, giúp bàn có độ bền cao và dễ dàng vệ sinh. Sản phẩm được thiết kế với đa dạng màu sắc và kích thước theo ý muốn khách hàng cho bạn thoải mái lựa chọn. ",
+      "price": 8500000,
+      "product_sizes": [
+        {
+          "product_sizes_id": 1,
+          "name": "A-80x100x120",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-1-2-300x253.jpg",
+          "price": 203003329,
+          "stock": 10
+        },
+        {
+          "product_sizes_id": 1,
+          "name": "B-100x120x160",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-4.jpg",
+          "price": 1238712831,
+          "stock": 8
+        },
+        {
+          "product_sizes_id": 2,
+          "name": "c-200x300x230",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-5.jpg",
+          "price": 123413681283,
+          "stock": 15
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "code": "P028",
+      "name": "Ghế sofa bọc da cao cấp thiết kế sang trọng",
+      "image": [
+        "https://gotrangtri.vn/wp-content/uploads/2022/08/ghe-sofa-boc-da-cao-cap-thiet-ke-sang-trong-ghs-8388-ava.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2022/08/O1CN01SMJV3h2DvpOzbfLYj_2112858672-1-277x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2022/08/O1CN01ZpQfFV2DvpP82GmPe_2112858672-1-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2022/08/O1CN018PKhs42DvpOzbi60z_2112858672-1-300x293.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2022/08/O1CN018PKhs42DvpOzbi60z_2112858672-1.jpg"
+      ],
+      "stock": 20,
+      "status": "Active",
+      "createAt": "2024-10-03",
+      "description": "Trải nghiệm không gian sống hiện đại, đẳng cấp ngay trong chính căn nhà của bạn với sản phẩm sofa mới nhất của gotrangtri.vn – ghế sofa bọc da cao cấp thiết kế sang trọng GHS-8388. Với ưu điểm vượt trội về chất lượng, thiết kế tinh tế, hoàn hảo đến từng chi tiết, ghế sofa bọc da cao cấp chắc chắn sẽ đáp ứng mọi mong muốn của bạn. Hãy nhanh tay liên hệ với chúng tôi để đem sản phẩm tuyệt vời này về với nhiều ưu đãi hấp dẫn nha. ",
+      "price": 1750000,
+      "product_sizes": [
+        {
+          "product_sizes_id": 1,
+          "name": "A-80x100x120",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-1-2-300x253.jpg",
+          "price": 203003329,
+          "stock": 10
+        },
+        {
+          "product_sizes_id": 1,
+          "name": "B-100x120x160",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-4.jpg",
+          "price": 1238712831,
+          "stock": 8
+        },
+        {
+          "product_sizes_id": 2,
+          "name": "c-200x300x230",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-5.jpg",
+          "price": 123413681283,
+          "stock": 15
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "code": "P029",
+      "name": "Giường hộc kéo 1m2 thiết kế hiện đại",
+      "image": [
+        "https://gotrangtri.vn/wp-content/uploads/2023/10/avar-Giuong-hoc-keo-1m2.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/10/avar-Giuong-hoc-keo-1m2-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/10/Giuong-hoc-keo-1m2-1-300x291.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/10/Giuong-hoc-keo-1m2-4-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/10/Giuong-hoc-keo-1m2-6.jpg"
+      ],
+      "stock": 20,
+      "status": "Active",
+      "createAt": "2024-10-03",
+      "description": "Bạn đang cần một chiếc giường đơn nhỏ gọn, tiện lợi và đẹp mắt cho phòng ngủ của mình? Bạn đang quan tâm đến sản phẩm Giường hộc kéo 1m2 thiết kế hiện đại GHS-9288 của Gỗ Trang Trí? Nếu bạn có những câu hỏi trên, thì hãy cùng tôi khám phá những ưu điểm của sản phẩm này nhé!",
+      "price": 14500000,
+      "product_sizes": [
+        {
+          "product_sizes_id": 1,
+          "name": "A-80x100x120",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-1-2-300x253.jpg",
+          "price": 203003329,
+          "stock": 10
+        },
+        {
+          "product_sizes_id": 1,
+          "name": "B-100x120x160",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-4.jpg",
+          "price": 1238712831,
+          "stock": 8
+        },
+        {
+          "product_sizes_id": 2,
+          "name": "c-200x300x230",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-5.jpg",
+          "price": 123413681283,
+          "stock": 15
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "code": "P030",
+      "name": "Tủ quần áo vintage đẹp, thiết kế hiện đại",
+      "image": [
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/avar-tu-quan-ao-vintage-ghs-52372-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-1-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-2-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-4-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-5-300x300.jpg"
+      ],
+      "stock": 20,
+      "status": "Active",
+      "createAt": "2024-10-03",
+      "description": "là sự kết hợp hoàn hảo giữa phong cách cổ điển và tính năng tiện nghi hiện đại. Với thiết kế cánh mây độc đáo, chất liệu gỗ cao cấp và khả năng lưu trữ khoa học, sản phẩm mang đến vẻ đẹp tinh tế và sang trọng cho không gian sống. Hãy cùng khám phá các ưu điểm nổi bật của tủ áo GHS-52372 ngay sau đây!",
+      "price": 9500000,
+      "product_sizes": [
+        {
+          "product_sizes_id": 1,
+          "name": "A-80x100x120",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-1-2-300x253.jpg",
+          "price": 203003329,
+          "stock": 10
+        },
+        {
+          "product_sizes_id": 1,
+          "name": "B-100x120x160",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-4.jpg",
+          "price": 1238712831,
+          "stock": 8
+        },
+        {
+          "product_sizes_id": 2,
+          "name": "c-200x300x230",
+          "img": "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-5.jpg",
+          "price": 123413681283,
+          "stock": 15
+        }
+      ]
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Bàn trang điểm có đèn – Xu hướng cho phòng ngủ hiện đại",
+      "content": "(Gỗ Trang Trí) Trong những năm gần đây, xu hướng lựa chọn bàn trang điểm có đèn đã trở nên phổ biến và được ưa chuộng bởi tính thẩm mỹ và tiện ích vượt trội. Những mẫu bàn trang điểm này không chỉ cung cấp ánh sáng hoàn hảo cho việc trang điểm mà còn tạo điểm nhấn hiện đại, sang trọng cho không gian sống. hãy cùng Gotrangtri.vn khám phá thêm về các mẫu bàn trang điểm đèn phù hợp cho phòng ngủ của bạn nhé!",
+      "blogs": [
+        {
+          "id": 11,
+          "name": "Phòng ngủ"
+        }
+      ],
+      "created_at": "2024-03-01",
+      "updated_at": "2024-03-05",
+      "image": "https://gotrangtri.vn/wp-content/uploads/2023/11/avar-giuong-ngu-co-hoc-keo-753x310.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Bật mí cách sắp xếp bàn trang trí trong không gian nội thất",
+      "content": "( Gỗ Trang Trí) Trong không gian nội thất hiện đại ngày nay, bàn trang trí trở thành món đồ không thể thiếu. Khi ta trở về nhà sau một ngày dài, chiếc bàn nhỏ xinh ấy giúp xua tan mọi mệt mỏi, ưu phiền cuộc sống. Theo dõi bài chia sẻ sau đây để khám phá những mẹo sắp xếp bàn trang trí hài hòa nhất. Cùng theo dõi nhé!",
+      "blogs": [
+        {
+          "id": 10,
+          "name": "Phòng khách"
+        }
+      ],
+      "created_at": "2024-02-15",
+      "updated_at": "2024-03-01",
+      "image": "https://gotrangtri.vn/wp-content/uploads/2023/11/avar-giuong-ngu-co-hoc-keo-753x310.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Tủ bếp màu trắng, đồ nội thất đem lại sự sang trong cho phòng bếp",
+      "content": "(Gỗ trang trí) Tủ bếp màu trắng luôn là lựa chọn hàng đầu cho những ai yêu thích sự thanh lịch và hiện đại. Không chỉ mang lại vẻ đẹp tinh tế, tủ bếp này còn giúp không gian bếp trở nên sáng sủa và rộng rãi hơn. Trong bài viết này, cùng gỗ trang trí khám phá những ưu điểm tuyệt vời của sản phẩm, và những công dụng của nó nhé!",
+      "blogs": [
+        {
+          "id": 1,
+          "name": "Bếp"
+        }
+      ],
+      "created_at": "2024-01-20",
+      "updated_at": "2024-02-05",
+      "image": "https://gotrangtri.vn/wp-content/uploads/2023/11/avar-giuong-ngu-co-hoc-keo-753x310.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Cách thiết kế biệt thự phong cách châu Âu",
+      "content": "Bài viết hướng dẫn cách thiết kế biệt thự theo phong cách châu Âu sang trọng.",
+      "blogs": [
+        {
+          "id": 2,
+          "name": "Biệt thự"
+        }
+      ],
+      "created_at": "2024-02-10",
+      "updated_at": "2024-02-20",
+      "image": "https://gotrangtri.vn/wp-content/uploads/2023/11/avar-giuong-ngu-co-hoc-keo-753x310.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Những điều cần biết khi thiết kế homestay",
+      "content": "Các yếu tố quan trọng giúp bạn thiết kế homestay thu hút khách du lịch.",
+      "blogs": [
+        {
+          "id": 5,
+          "name": "Homestay"
+        }
+      ],
+      "created_at": "2024-03-05",
+      "updated_at": "2024-03-10",
+      "image": "https://gotrangtri.vn/wp-content/uploads/2023/11/avar-giuong-ngu-co-hoc-keo-753x310.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Ứng dụng phong thủy trong thiết kế nhà ở",
+      "content": "Hướng dẫn cách ứng dụng phong thủy vào thiết kế nhà ở để thu hút tài lộc.",
+      "blogs": [
+        {
+          "id": 13,
+          "name": "Phong thủy"
+        }
+      ],
+      "created_at": "2024-01-25",
+      "updated_at": "2024-02-15",
+      "image": "https://gotrangtri.vn/wp-content/uploads/2023/11/avar-giuong-ngu-co-hoc-keo-753x310.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Thiết kế văn phòng làm việc sáng tạo",
+      "content": "Những gợi ý giúp không gian làm việc trở nên sáng tạo và hiệu quả hơn.",
+      "blogs": [
+        {
+          "id": 15,
+          "name": "Văn phòng"
+        }
+      ],
+      "created_at": "2024-03-08",
+      "updated_at": "2024-03-12",
+      "image": "https://gotrangtri.vn/wp-content/uploads/2023/11/avar-giuong-ngu-co-hoc-keo-753x310.jpg"
+    }
+  ],
+  "blogs": [
+    {
+      "id": 1,
+      "name": "Bếp"
+    },
+    {
+      "id": 2,
+      "name": "Biệt thự"
+    },
+    {
+      "id": 3,
+      "name": "Chưng cư"
+    },
+    {
+      "id": 4,
+      "name": "Du lịch"
+    },
+    {
+      "id": 5,
+      "name": "Homestay"
+    },
+    {
+      "id": 6,
+      "name": "Kiến trúc"
+    },
+    {
+      "id": 7,
+      "name": "Làng nghề"
+    },
+    {
+      "id": 8,
+      "name": "Mẹ & Bé"
+    },
+    {
+      "id": 9,
+      "name": "Nhà đẹp"
+    },
+    {
+      "id": 10,
+      "name": "Phòng khách"
+    },
+    {
+      "id": 11,
+      "name": "Phòng ngủ"
+    },
+    {
+      "id": 12,
+      "name": "Phòng tắm"
+    },
+    {
+      "id": 13,
+      "name": "Phong thủy"
+    },
+    {
+      "id": 14,
+      "name": "Quán cafe"
+    },
+    {
+      "id": 15,
+      "name": "Văn phòng"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "fullname": "Tao",
+      "email": "trantuan@gmail.com",
+      "phone": "0395757650",
+      "gender": "Nam",
+      "image": "https://i.ibb.co/gbryhnsr/Screenshot-from-2025-02-12-13-52-21.png",
+      "password": "$2a$10$2P/WpJwz1kAiwb.pJMsbyuPs9HZiI0uq90YzdAtyyfrejTW90Ewfa"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Nội thất gia đình",
+      "parent_id": null,
+      "img": "https://gotrangtri.vn/wp-content/uploads/2021/08/noi-that-gia-dinh.png"
+    },
+    {
+      "id": 2,
+      "name": "Nội thất điểm nhấn",
+      "parent_id": null,
+      "img": "https://gotrangtri.vn/wp-content/uploads/2024/04/console-table.png"
+    },
+    {
+      "id": 3,
+      "name": "Nội thất lắp ghép",
+      "parent_id": null,
+      "img": "https://gotrangtri.vn/wp-content/uploads/2023/04/diy-noi-that-lap-ghep.png"
+    },
+    {
+      "id": 4,
+      "name": "Nội thất trẻ em",
+      "parent_id": null,
+      "img": "https://gotrangtri.vn/wp-content/uploads/2021/08/noi-that-tre-em.png"
+    },
+    {
+      "id": 5,
+      "name": "Nội thất cửa tiệm",
+      "parent_id": null,
+      "img": "https://gotrangtri.vn/wp-content/uploads/2023/04/noi-that-shop.png"
+    },
+    {
+      "id": 6,
+      "name": "Nột thất văn phòng",
+      "parent_id": null,
+      "img": "https://gotrangtri.vn/wp-content/uploads/2021/08/noi-that-van-phong.png"
+    },
+    {
+      "id": 7,
+      "name": "Phụ kiện trang trí",
+      "parent_id": null,
+      "img": "https://gotrangtri.vn/wp-content/uploads/2021/08/phu-kien-trang-tri.png"
+    },
+    {
+      "id": 8,
+      "name": "Chăm sóc gia đình",
+      "parent_id": null,
+      "img": "https://gotrangtri.vn/wp-content/uploads/2023/04/go-trang-tri-2.png"
+    },
+    {
+      "id": 9,
+      "name": "Thiết bị gia dụng",
+      "parent_id": null,
+      "img": "https://gotrangtri.vn/wp-content/uploads/2021/08/vat-tu-thiet-bi.png"
+    },
+    {
+      "id": 10,
+      "name": "Tủ quần áo",
+      "parent_id": 1,
+      "img": "https://gotrangtri.vn/wp-content/uploads/2023/04/icon-menu-tu-quan-ao.png"
+    },
+    {
+      "id": 12,
+      "name": "Tủ áo cánh kính",
+      "parent_id": 1,
+      "img": "https://gotrangtri.vn/wp-content/uploads/2023/05/icon-tu-quan-ao-cua-lua.png"
+    },
+    {
+      "id": 13,
+      "name": "Giường ngủ",
+      "parent_id": 1,
+      "img": "https://gotrangtri.vn/wp-content/uploads/2023/04/icon-menu-giuong-ngu.png"
+    },
+    {
+      "id": 14,
+      "name": "Bàn trang điểm",
+      "parent_id": 1,
+      "img": "https://gotrangtri.vn/wp-content/uploads/2023/04/icon-menu-ban-trang-diem.png"
+    },
+    {
+      "id": 15,
+      "name": "Kệ tivi",
+      "parent_id": 1,
+      "img": "https://gotrangtri.vn/wp-content/uploads/2023/04/icon-menu-ke-tivi.png"
+    },
+    {
+      "id": 16,
+      "name": "Tủ tivi",
+      "parent_id": 1,
+      "img": "https://gotrangtri.vn/wp-content/uploads/2023/10/icon-menu-tu-tivi-2.png"
+    },
+    {
+      "id": 17,
+      "name": "Kệ tv treo tường",
+      "parent_id": 1,
+      "img": "https://gotrangtri.vn/wp-content/uploads/2023/05/icon-ke-tivi-treo-tuong.png"
+    },
+    {
+      "id": 18,
+      "name": "Bàn sofa",
+      "parent_id": 1,
+      "img": "https://gotrangtri.vn/wp-content/uploads/2023/04/icon-menu-ban-tra.png"
+    },
+    {
+      "id": 19,
+      "name": "Ghế sofa",
+      "parent_id": 1,
+      "img": "https://gotrangtri.vn/wp-content/uploads/2023/04/icon-menu-sofa.png"
+    },
+    {
+      "id": 20,
+      "name": "Sofa gỗ",
+      "parent_id": 1,
+      "img": "https://gotrangtri.vn/wp-content/uploads/2023/05/icon-ghe-sofa-go-soi.png"
+    },
+    {
+      "id": 21,
+      "name": "Bàn ghế ăn",
+      "parent_id": 1,
+      "img": "https://gotrangtri.vn/wp-content/uploads/2023/04/icon-menu-ban-an.png"
+    },
+    {
+      "id": 22,
+      "name": "Bàn học sinh",
+      "parent_id": 1,
+      "img": "https://gotrangtri.vn/wp-content/uploads/2023/04/icon-menu-ban-hoc.png"
+    },
+    {
+      "id": 23,
+      "name": "Bàn làm việc",
+      "parent_id": 1,
+      "img": "https://gotrangtri.vn/wp-content/uploads/2023/04/icon-menu-ban-lam-viec.png"
+    },
+    {
+      "id": 24,
+      "name": "Giá sách",
+      "parent_id": 1,
+      "img": "https://gotrangtri.vn/wp-content/uploads/2023/04/icon-menu-tu-sach.png"
+    },
+    {
+      "id": 25,
+      "name": "Tủ giày",
+      "parent_id": 1,
+      "img": "https://gotrangtri.vn/wp-content/uploads/2023/04/icon-menu-tu-giay.png"
+    },
+    {
+      "id": 26,
+      "name": "Tủ đầu giường",
+      "parent_id": 1,
+      "img": "https://gotrangtri.vn/wp-content/uploads/2023/04/icon-menu-tab-dau-giuong.png"
+    },
+    {
+      "id": 27,
+      "name": "Tủ trang trí",
+      "parent_id": 1,
+      "img": "https://gotrangtri.vn/wp-content/uploads/2023/04/icon-menu-tu-trang-tri.png"
+    },
+    {
+      "id": 28,
+      "name": "Tủ bát đĩa",
+      "parent_id": 1,
+      "img": "https://gotrangtri.vn/wp-content/uploads/2023/04/icon-menu-tu-bat.png"
+    },
+    {
+      "id": 29,
+      "name": "Tủ rượu",
+      "parent_id": 1,
+      "img": "https://gotrangtri.vn/wp-content/uploads/2023/04/icon-menu-tu-ruou.png"
+    },
+    {
+      "id": 30,
+      "name": "Tủ bếp",
+      "parent_id": 1,
+      "img": "https://gotrangtri.vn/wp-content/uploads/2023/04/icon-menu-he-tu-bep.png"
+    },
+    {
+      "id": 31,
+      "name": "Vách thờ",
+      "parent_id": 2,
+      "img": "https://gotrangtri.vn/wp-content/uploads/2024/04/icon-vach-tho.png"
+    },
+    {
+      "id": 32,
+      "name": "Tủ thờ - Bàn thờ",
+      "parent_id": 2,
+      "img": "https://gotrangtri.vn/wp-content/uploads/2024/03/tu-tho-3.png"
+    },
+    {
+      "id": 33,
+      "name": "Bàn console",
+      "parent_id": 2,
+      "img": "https://gotrangtri.vn/wp-content/uploads/2023/11/image-removebg-preview-1.png"
+    },
+    {
+      "id": 34,
+      "name": "Tủ để bể cá",
+      "parent_id": 2,
+      "img": "https://gotrangtri.vn/wp-content/uploads/2024/08/icon-menu-tu-de-be-ca.png"
+    },
+    {
+      "id": 35,
+      "name": "Ốp bàn thờ",
+      "parent_id": 2,
+      "img": "https://gotrangtri.vn/wp-content/uploads/2024/04/image-removebg-preview-92.png"
+    },
+    {
+      "id": 36,
+      "name": "Vách ốp tường",
+      "parent_id": 2,
+      "img": "https://gotrangtri.vn/wp-content/uploads/2024/08/icon-menu-vach-op-tuong.png"
+    },
+    {
+      "id": 37,
+      "name": "Giường bệt",
+      "parent_id": 3,
+      "img": "https://gotrangtri.vn/wp-content/uploads/2023/04/giuong-ngu.png"
+    },
+    {
+      "id": 38,
+      "name": "Tủ áo cửa lùa",
+      "parent_id": 3,
+      "img": "https://gotrangtri.vn/wp-content/uploads/2023/04/tu-quan-ao.png"
+    },
+    {
+      "id": 39,
+      "name": "Bàn lắp ghép",
+      "parent_id": 3,
+      "img": "https://gotrangtri.vn/wp-content/uploads/2023/04/ban-hoc.png"
+    },
+    {
+      "id": 40,
+      "name": "Kệ lò vi sóng",
+      "parent_id": 3,
+      "img": "https://gotrangtri.vn/wp-content/uploads/2023/06/icon-ke-lo-vi-song-2.png"
+    },
+    {
+      "id": 41,
+      "name": "Tủ giày thông minh",
+      "parent_id": 3,
+      "img": "https://gotrangtri.vn/wp-content/uploads/2023/04/tu-giay.png"
+    },
+    {
+      "id": 42,
+      "name": "Kệ sách lắp ghép",
+      "parent_id": 3,
+      "img": "https://gotrangtri.vn/wp-content/uploads/2024/08/icon-menu-ke-sach-lap-ghep.png"
+    },
+    {
+      "id": 43,
+      "name": "Bàn bệt",
+      "parent_id": 3,
+      "img": "https://gotrangtri.vn/wp-content/uploads/2023/06/icon-menu-ban-bet.png"
+    },
+    {
+      "id": 44,
+      "name": "Kệ để đồ",
+      "parent_id": 3,
+      "img": "https://gotrangtri.vn/wp-content/uploads/2023/05/icon-ke-de-do-2.png"
+    },
+    {
+      "id": 45,
+      "name": "Kệ gỗ treo tường",
+      "parent_id": 3,
+      "img": "https://gotrangtri.vn/wp-content/uploads/2023/05/icon-ke-de-do.png"
+    },
+    {
+      "id": 46,
+      "name": "Kệ thú lắp ghép",
+      "parent_id": 3,
+      "img": "https://gotrangtri.vn/wp-content/uploads/2023/08/ke-thu.png"
+    },
+    {
+      "id": 47,
+      "name": "Kệ sách treo",
+      "parent_id": 3,
+      "img": "https://gotrangtri.vn/wp-content/uploads/2023/11/icon-ke-sach-treo-tuong.png"
+    },
+    {
+      "id": 48,
+      "name": "Kệ sách treo",
+      "parent_id": 4,
+      "img": "https://gotrangtri.vn/wp-content/uploads/2024/08/icon-menu-vach-op-tuong.png"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "code": "P001",
+      "name": "Bàn ăn gỗ sồi",
+      "description": "Bàn ăn làm từ gỗ sồi tự nhiên, chống nước",
+      "price": 4500000,
+      "stock": 10,
+      "category_id": 2,
+      "status": "available",
+      "created_at": "2024-03-20T10:00:00",
+      "updated_at": "2024-03-20T10:00:00",
+      "image": [
+        "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-1.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-1-1-300x238.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-1-2-300x253.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-1-3.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-4.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2025/02/tu-trang-tri-nho-ghs-52597-a-1-5.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "code": "P002",
+      "name": "Bàn làm việc chân sắt",
+      "description": "Bàn làm việc chân sắt, mặt gỗ công nghiệp",
+      "price": 2500000,
+      "stock": 20,
+      "category_id": 3,
+      "status": "available",
+      "created_at": "2024-03-20T11:00:00",
+      "image": [
+        "https://gotrangtri.vn/wp-content/uploads/2023/04/avar-ban-lam-viec-chu-l-doc-dao-ghs-41852.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/04/avar-ban-lam-viec-chu-l-doc-dao-ghs-41852-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/04/ban-lam-viec-chu-l-doc-dao-ghs-41852-1-300x216.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/04/ban-lam-viec-chu-l-doc-dao-ghs-41852-2-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/04/ban-lam-viec-chu-l-doc-dao-ghs-41852-3-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/04/ban-lam-viec-chu-l-doc-dao-ghs-41852-6-300x212.jpg"
+      ],
+      "updated_at": "2024-03-20T11:00:00"
+    },
+    {
+      "id": 3,
+      "code": "P003",
+      "name": "Ghế sofa gỗ óc chó",
+      "description": "Ghế sofa gỗ óc chó bọc nệm cao cấp",
+      "price": 12000000,
+      "stock": 5,
+      "image": [
+        "https://gotrangtri.vn/wp-content/uploads/2022/08/ghe-sofa-boc-da-cao-cap-thiet-ke-sang-trong-ghs-8388-ava.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2022/08/O1CN01SMJV3h2DvpOzbfLYj_2112858672-1-277x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2022/08/O1CN01ZpQfFV2DvpP82GmPe_2112858672-1-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2022/08/O1CN018PKhs42DvpOzbi60z_2112858672-1-300x293.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2022/08/O1CN018PKhs42DvpOzbi60z_2112858672-1.jpg"
+      ],
+      "category_id": 12,
+      "status": "available",
+      "created_at": "2024-03-20T12:00:00",
+      "updated_at": "2024-03-20T12:00:00"
+    },
+    {
+      "id": 4,
+      "code": "P004",
+      "name": "Tủ quần áo gỗ công nghiệp",
+      "description": "Tủ quần áo thiết kế hiện đại, nhiều ngăn",
+      "price": 5500000,
+      "stock": 8,
+      "category_id": 22,
+      "image": [
+        "https://gotrangtri.vn/wp-content/uploads/2023/10/avar-Giuong-hoc-keo-1m2.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/10/avar-Giuong-hoc-keo-1m2-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/10/Giuong-hoc-keo-1m2-1-300x291.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/10/Giuong-hoc-keo-1m2-4-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2023/10/Giuong-hoc-keo-1m2-6.jpg"
+      ],
+      "status": "available",
+      "created_at": "2024-03-20T13:00:00",
+      "updated_at": "2024-03-20T13:00:00"
+    },
+    {
+      "id": 5,
+      "code": "P005",
+      "name": "Giường ngủ gỗ hương",
+      "description": "Giường ngủ từ gỗ hương, kiểu dáng sang trọng",
+      "price": 9500000,
+      "stock": 6,
+      "category_id": 48,
+      "status": "available",
+      "image": [
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/avar-tu-quan-ao-vintage-ghs-52372-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-1-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-2-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-4-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-5-300x300.jpg"
+      ],
+      "created_at": "2024-03-20T14:00:00",
+      "updated_at": "2024-03-20T14:00:00"
+    },
+    {
+      "id": 6,
+      "code": "P006",
+      "name": "Kệ sách treo tường",
+      "description": "Kệ sách treo tường nhỏ gọn, tiết kiệm không gian",
+      "price": 1200000,
+      "stock": 15,
+      "category_id": 32,
+      "status": "available",
+      "image": [
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/avar-tu-quan-ao-vintage-ghs-52372-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-1-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-2-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-4-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-5-300x300.jpg"
+      ],
+      "created_at": "2024-03-20T15:00:00",
+      "updated_at": "2024-03-20T15:00:00"
+    },
+    {
+      "id": 7,
+      "code": "P007",
+      "name": "Bàn trà gỗ me tây",
+      "description": "Bàn trà gỗ nguyên khối, chân sắt",
+      "price": 3200000,
+      "stock": 12,
+      "category_id": 4,
+      "status": "available",
+      "image": [
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/avar-tu-quan-ao-vintage-ghs-52372-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-1-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-2-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-4-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-5-300x300.jpg"
+      ],
+      "created_at": "2024-03-20T16:00:00",
+      "updated_at": "2024-03-20T16:00:00"
+    },
+    {
+      "id": 8,
+      "code": "P008",
+      "name": "Bàn trang điểm gỗ xoan đào",
+      "description": "Bàn trang điểm có gương, thiết kế sang trọng",
+      "price": 4000000,
+      "stock": 7,
+      "category_id": 6,
+      "status": "available",
+      "image": [
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/avar-tu-quan-ao-vintage-ghs-52372-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-1-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-2-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-4-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-5-300x300.jpg"
+      ],
+      "created_at": "2024-03-20T17:00:00",
+      "updated_at": "2024-03-20T17:00:00"
+    },
+    {
+      "id": 9,
+      "code": "P009",
+      "name": "Ghế thư giãn bập bênh",
+      "description": "Ghế thư giãn bập bênh từ gỗ tự nhiên",
+      "price": 2700000,
+      "stock": 10,
+      "category_id": 19,
+      "status": "available",
+      "image": [
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/avar-tu-quan-ao-vintage-ghs-52372-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-1-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-2-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-4-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-5-300x300.jpg"
+      ],
+      "created_at": "2024-03-20T18:00:00",
+      "updated_at": "2024-03-20T18:00:00"
+    },
+    {
+      "id": 10,
+      "code": "P010",
+      "name": "Tủ rượu gỗ gõ đỏ",
+      "description": "Tủ rượu gỗ gõ đỏ, thiết kế cổ điển",
+      "price": 8500000,
+      "stock": 5,
+      "category_id": 27,
+      "status": "available",
+      "image": [
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/avar-tu-quan-ao-vintage-ghs-52372-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-1-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-2-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-4-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-5-300x300.jpg"
+      ],
+      "created_at": "2024-03-20T19:00:00",
+      "updated_at": "2024-03-20T19:00:00"
+    },
+    {
+      "id": 11,
+      "code": "P061",
+      "name": "Kệ TV gỗ sồi",
+      "description": "Kệ TV gỗ sồi bền đẹp, thiết kế hiện đại",
+      "price": 5200000,
+      "stock": 8,
+      "category_id": 8,
+      "status": "available",
+      "image": [
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/avar-tu-quan-ao-vintage-ghs-52372-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-1-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-2-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-4-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-5-300x300.jpg"
+      ],
+      "created_at": "2024-03-20T21:00:00",
+      "updated_at": "2024-03-20T21:00:00"
+    },
+    {
+      "id": 12,
+      "code": "P062",
+      "name": "Bàn ăn 6 ghế gỗ óc chó",
+      "description": "Bàn ăn 6 ghế, gỗ óc chó sang trọng",
+      "price": 12500000,
+      "stock": 4,
+      "category_id": 2,
+      "status": "available",
+      "image": [
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/avar-tu-quan-ao-vintage-ghs-52372-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-1-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-2-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-4-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-5-300x300.jpg"
+      ],
+      "created_at": "2024-03-20T22:00:00",
+      "updated_at": "2024-03-20T22:00:00"
+    },
+    {
+      "id": 13,
+      "code": "P063",
+      "name": "Tủ bếp gỗ công nghiệp",
+      "description": "Tủ bếp hiện đại, gỗ công nghiệp chống ẩm",
+      "price": 13500000,
+      "stock": 6,
+      "category_id": 9,
+      "status": "available",
+      "image": [
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/avar-tu-quan-ao-vintage-ghs-52372-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-1-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-2-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-4-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-5-300x300.jpg"
+      ],
+      "created_at": "2024-03-20T23:00:00",
+      "updated_at": "2024-03-20T23:00:00"
+    },
+    {
+      "id": 14,
+      "code": "P064",
+      "name": "Giường tầng trẻ em",
+      "description": "Giường tầng gỗ tự nhiên, chắc chắn",
+      "price": 7500000,
+      "stock": 9,
+      "category_id": 15,
+      "status": "available",
+      "image": [
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/avar-tu-quan-ao-vintage-ghs-52372-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-1-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-2-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-4-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-5-300x300.jpg"
+      ],
+      "created_at": "2024-03-21T00:00:00",
+      "updated_at": "2024-03-21T00:00:00"
+    },
+    {
+      "id": 15,
+      "code": "P065",
+      "name": "Bàn học sinh gỗ thông",
+      "description": "Bàn học sinh kèm giá sách tiện lợi",
+      "price": 3200000,
+      "stock": 12,
+      "category_id": 25,
+      "status": "available",
+      "image": [
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/avar-tu-quan-ao-vintage-ghs-52372-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-1-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-2-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-4-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-5-300x300.jpg"
+      ],
+      "created_at": "2024-03-21T01:00:00",
+      "updated_at": "2024-03-21T01:00:00"
+    },
+    {
+      "id": 16,
+      "code": "P066",
+      "name": "Tủ giày thông minh",
+      "description": "Tủ giày gỗ công nghiệp, thiết kế thông minh",
+      "price": 2800000,
+      "stock": 11,
+      "category_id": 17,
+      "status": "available",
+      "image": [
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/avar-tu-quan-ao-vintage-ghs-52372-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-1-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-2-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-4-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-5-300x300.jpg"
+      ],
+      "created_at": "2024-03-21T02:00:00",
+      "updated_at": "2024-03-21T02:00:00"
+    },
+    {
+      "id": 17,
+      "code": "P067",
+      "name": "Bàn ghế cafe gỗ me tây",
+      "description": "Bàn ghế cafe gỗ me tây chân sắt",
+      "price": 4500000,
+      "stock": 7,
+      "category_id": 31,
+      "status": "available",
+      "image": [
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/avar-tu-quan-ao-vintage-ghs-52372-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-1-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-2-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-4-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-5-300x300.jpg"
+      ],
+      "created_at": "2024-03-21T03:00:00",
+      "updated_at": "2024-03-21T03:00:00"
+    },
+    {
+      "id": 18,
+      "code": "P068",
+      "name": "Giá sách gỗ xoan",
+      "description": "Giá sách gỗ xoan đào, thiết kế 5 tầng",
+      "price": 3600000,
+      "stock": 10,
+      "category_id": 32,
+      "status": "available",
+      "image": [
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/avar-tu-quan-ao-vintage-ghs-52372-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-1-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-2-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-4-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-5-300x300.jpg"
+      ],
+      "created_at": "2024-03-21T04:00:00",
+      "updated_at": "2024-03-21T04:00:00"
+    },
+    {
+      "id": 19,
+      "code": "P069",
+      "name": "Bàn ăn gỗ gõ đỏ",
+      "description": "Bàn ăn cao cấp từ gỗ gõ đỏ",
+      "price": 16500000,
+      "stock": 3,
+      "category_id": 2,
+      "status": "available",
+      "image": [
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/avar-tu-quan-ao-vintage-ghs-52372-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-1-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-2-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-4-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-5-300x300.jpg"
+      ],
+      "created_at": "2024-03-21T05:00:00",
+      "updated_at": "2024-03-21T05:00:00"
+    },
+    {
+      "id": 20,
+      "code": "P070",
+      "name": "Kệ để đồ trang trí",
+      "description": "Kệ để đồ trang trí gỗ sồi",
+      "price": 2400000,
+      "stock": 14,
+      "category_id": 28,
+      "status": "available",
+      "image": [
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/avar-tu-quan-ao-vintage-ghs-52372-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-1-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-2-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-4-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-5-300x300.jpg"
+      ],
+      "created_at": "2024-03-21T06:00:00",
+      "updated_at": "2024-03-21T06:00:00"
+    },
+    {
+      "id": 21,
+      "code": "P060",
+      "name": "Sập gỗ cẩm lai",
+      "description": "Sập gỗ cẩm lai chạm trổ tinh xảo",
+      "price": 15000000,
+      "stock": 3,
+      "category_id": 63,
+      "status": "available",
+      "image": [
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/avar-tu-quan-ao-vintage-ghs-52372-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-1-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-2-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-4-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-5-300x300.jpg"
+      ],
+      "created_at": "2024-03-20T20:00:00",
+      "updated_at": "2024-03-20T20:00:00"
+    },
+    {
+      "id": 22,
+      "code": "P110",
+      "name": "Tủ quần áo gỗ mun",
+      "description": "Tủ quần áo gỗ mun tự nhiên, sang trọng",
+      "price": 19500000,
+      "stock": 2,
+      "category_id": 22,
+      "status": "available",
+      "image": [
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/avar-tu-quan-ao-vintage-ghs-52372-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-1-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-2-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-4-300x300.jpg",
+        "https://gotrangtri.vn/wp-content/uploads/2024/12/tu-quan-ao-vintage-ghs-52372-5-300x300.jpg"
+      ],
+      "created_at": "2024-03-21T20:00:00",
+      "updated_at": "2024-03-21T20:00:00"
+    }
+  ],
+  "order": [
+    {
+      "user_id": 1,
+      "orderItem": [
+        {
+          "order_id": 1,
+          "name": "Ghế sofa gỗ óc chó bọc nệm cao cấp",
+          "quantity": 3,
+          "image": "https://gotrangtri.vn/wp-content/uploads/2022/08/ghe-sofa-boc-da-cao-cap-thiet-ke-sang-trong-ghs-8388-ava.jpg",
+          "price": 12000000,
+          "product_id": 3
+        }
+      ],
+      "address": "",
+      "orderNote": "",
+      "payment": null,
+      "status": "successful",
+      "shipping_fee": 0,
+      "discount": 0,
+      "created_at": "2025-03-28T11:07:37.799Z",
+      "updated_at": "2025-03-28T11:07:37.799Z",
+      "id": 1
+    },
+    {
+      "user_id": 1,
+      "orderItem": [
+        {
+          "order_id": 2,
+          "name": "Bàn trang điểm có gương, thiết kế sang trọng",
+          "quantity": 1,
+          "image": "https://gotrangtri.vn/wp-content/uploads/2024/12/avar-tu-quan-ao-vintage-ghs-52372-300x300.jpg",
+          "price": 4000000,
+          "product_id": 8
+        }
+      ],
+      "address": "",
+      "orderNote": "",
+      "payment": null,
+      "status": "successful",
+      "shipping_fee": 0,
+      "discount": 0,
+      "created_at": "2025-03-28T11:07:37.799Z",
+      "updated_at": "2025-03-28T11:07:37.799Z",
+      "id": 2
+    },
+    {
+      "user_id": 1,
+      "orderItem": [],
+      "address": "",
+      "orderNote": "",
+      "payment": "Thanh toán khi nhận hàng",
+      "status": "pending",
+      "shipping_fee": 0,
+      "discount": 0,
+      "created_at": "2025-03-28T14:51:59.691Z",
+      "updated_at": "2025-03-28T14:51:59.691Z",
+      "id": 3
+    }
+  ],
+  "shipping": [
+    {
+      "order_id": 1,
+      "address": "123 Đường Lê Lợi",
+      "city": "Hà Nội",
+      "postal_code": "100000",
+      "tracking_number": "VN123456789"
+    },
+    {
+      "order_id": 2,
+      "address": "456 Đường Trần Hưng Đạo",
+      "city": "Hồ Chí Minh",
+      "postal_code": "700000",
+      "tracking_number": "VN987654321"
+    },
+    {
+      "order_id": 3,
+      "address": "789 Đường Nguyễn Huệ",
+      "city": "Đà Nẵng",
+      "postal_code": "550000",
+      "tracking_number": "VN112233445"
+    },
+    {
+      "order_id": 4,
+      "address": "101 Đường Quang Trung",
+      "city": "Hải Phòng",
+      "postal_code": "180000",
+      "tracking_number": "VN556677889"
+    },
+    {
+      "order_id": 5,
+      "address": "202 Đường Võ Văn Kiệt",
+      "city": "Cần Thơ",
+      "postal_code": "900000",
+      "tracking_number": "VN667788990"
+    },
+    {
+      "order_id": 6,
+      "address": "303 Đường Hoàng Diệu",
+      "city": "Nha Trang",
+      "postal_code": "650000",
+      "tracking_number": "VN778899001"
+    },
+    {
+      "order_id": 7,
+      "address": "404 Đường Lý Thường Kiệt",
+      "city": "Huế",
+      "postal_code": "530000",
+      "tracking_number": "VN889900112"
+    },
+    {
+      "order_id": 8,
+      "address": "505 Đường Phạm Văn Đồng",
+      "city": "Bình Dương",
+      "postal_code": "750000",
+      "tracking_number": "VN990011223"
+    },
+    {
+      "order_id": 9,
+      "address": "606 Đường Nguyễn Trãi",
+      "city": "Vũng Tàu",
+      "postal_code": "790000",
+      "tracking_number": "VN1122334455"
+    },
+    {
+      "order_id": 10,
+      "address": "707 Đường Lê Văn Lương",
+      "city": "Quảng Ninh",
+      "postal_code": "200000",
+      "tracking_number": "VN2233445566"
+    },
+    {
+      "order_id": 11,
+      "address": "808 Đường Bạch Đằng",
+      "city": "Hà Nam",
+      "postal_code": "400000",
+      "tracking_number": "VN3344556677"
+    },
+    {
+      "order_id": 12,
+      "address": "909 Đường Điện Biên Phủ",
+      "city": "Nam Định",
+      "postal_code": "420000",
+      "tracking_number": "VN4455667788"
+    },
+    {
+      "order_id": 13,
+      "address": "1010 Đường Nguyễn Đình Chiểu",
+      "city": "Thanh Hóa",
+      "postal_code": "440000",
+      "tracking_number": "VN5566778899"
+    },
+    {
+      "order_id": 14,
+      "address": "1111 Đường Võ Nguyên Giáp",
+      "city": "Nghệ An",
+      "postal_code": "460000",
+      "tracking_number": "VN6677889900"
+    },
+    {
+      "order_id": 15,
+      "address": "1212 Đường Trần Quang Khải",
+      "city": "Bắc Ninh",
+      "postal_code": "220000",
+      "tracking_number": "VN7788990011"
+    },
+    {
+      "order_id": 16,
+      "address": "1313 Đường Tôn Đức Thắng",
+      "city": "Hải Dương",
+      "postal_code": "170000",
+      "tracking_number": "VN8899001122"
+    },
+    {
+      "order_id": 17,
+      "address": "1414 Đường Trần Phú",
+      "city": "Lâm Đồng",
+      "postal_code": "670000",
+      "tracking_number": "VN9900112233"
+    },
+    {
+      "order_id": 18,
+      "address": "1515 Đường Cao Thắng",
+      "city": "Bến Tre",
+      "postal_code": "860000",
+      "tracking_number": "VN11223344556"
+    },
+    {
+      "order_id": 19,
+      "address": "1616 Đường Phạm Ngũ Lão",
+      "city": "Tây Ninh",
+      "postal_code": "840000",
+      "tracking_number": "VN22334455667"
+    },
+    {
+      "order_id": 20,
+      "address": "1717 Đường Lê Đại Hành",
+      "city": "Long An",
+      "postal_code": "820000",
+      "tracking_number": "VN33445566778"
+    }
+  ],
+  "payments": [
+    {
+      "order_id": 1,
+      "payment_method": "Credit Card",
+      "status": "Completed",
+      "transaction_id": "TXN123456789",
+      "created_at": "2024-03-20 10:00:00"
+    },
+    {
+      "order_id": 2,
+      "payment_method": "PayPal",
+      "status": "Pending",
+      "transaction_id": "TXN987654321",
+      "created_at": "2024-03-20 10:05:00"
+    },
+    {
+      "order_id": 3,
+      "payment_method": "Bank Transfer",
+      "status": "Failed",
+      "transaction_id": "TXN112233445",
+      "created_at": "2024-03-20 10:10:00"
+    },
+    {
+      "order_id": 4,
+      "payment_method": "Credit Card",
+      "status": "Completed",
+      "transaction_id": "TXN556677889",
+      "created_at": "2024-03-20 10:15:00"
+    },
+    {
+      "order_id": 5,
+      "payment_method": "PayPal",
+      "status": "Refunded",
+      "transaction_id": "TXN667788990",
+      "created_at": "2024-03-20 10:20:00"
+    },
+    {
+      "order_id": 6,
+      "payment_method": "Bank Transfer",
+      "status": "Completed",
+      "transaction_id": "TXN778899001",
+      "created_at": "2024-03-20 10:25:00"
+    },
+    {
+      "order_id": 7,
+      "payment_method": "Credit Card",
+      "status": "Pending",
+      "transaction_id": "TXN889900112",
+      "created_at": "2024-03-20 10:30:00"
+    },
+    {
+      "order_id": 8,
+      "payment_method": "PayPal",
+      "status": "Completed",
+      "transaction_id": "TXN990011223",
+      "created_at": "2024-03-20 10:35:00"
+    },
+    {
+      "order_id": 9,
+      "payment_method": "Bank Transfer",
+      "status": "Completed",
+      "transaction_id": "TXN1122334455",
+      "created_at": "2024-03-20 10:40:00"
+    },
+    {
+      "order_id": 10,
+      "payment_method": "Credit Card",
+      "status": "Failed",
+      "transaction_id": "TXN2233445566",
+      "created_at": "2024-03-20 10:45:00"
+    },
+    {
+      "order_id": 11,
+      "payment_method": "Credit Card",
+      "status": "Completed",
+      "transaction_id": "TXN3344556677",
+      "created_at": "2024-03-20 10:50:00"
+    },
+    {
+      "order_id": 12,
+      "payment_method": "PayPal",
+      "status": "Pending",
+      "transaction_id": "TXN4455667788",
+      "created_at": "2024-03-20 10:55:00"
+    },
+    {
+      "order_id": 13,
+      "payment_method": "Bank Transfer",
+      "status": "Completed",
+      "transaction_id": "TXN5566778899",
+      "created_at": "2024-03-20 11:00:00"
+    },
+    {
+      "order_id": 14,
+      "payment_method": "Credit Card",
+      "status": "Completed",
+      "transaction_id": "TXN6677889900",
+      "created_at": "2024-03-20 11:05:00"
+    },
+    {
+      "order_id": 15,
+      "payment_method": "PayPal",
+      "status": "Refunded",
+      "transaction_id": "TXN7788990011",
+      "created_at": "2024-03-20 11:10:00"
+    },
+    {
+      "order_id": 16,
+      "payment_method": "Bank Transfer",
+      "status": "Failed",
+      "transaction_id": "TXN8899001122",
+      "created_at": "2024-03-20 11:15:00"
+    },
+    {
+      "order_id": 17,
+      "payment_method": "Credit Card",
+      "status": "Completed",
+      "transaction_id": "TXN9900112233",
+      "created_at": "2024-03-20 11:20:00"
+    },
+    {
+      "order_id": 18,
+      "payment_method": "PayPal",
+      "status": "Completed",
+      "transaction_id": "TXN11223344556",
+      "created_at": "2024-03-20 11:25:00"
+    },
+    {
+      "order_id": 19,
+      "payment_method": "Bank Transfer",
+      "status": "Completed",
+      "transaction_id": "TXN22334455667",
+      "created_at": "2024-03-20 11:30:00"
+    },
+    {
+      "order_id": 20,
+      "payment_method": "Credit Card",
+      "status": "Failed",
+      "transaction_id": "TXN33445566778",
+      "created_at": "2024-03-20 11:35:00"
+    }
+  ],
+  "product_sizes": [
+    {
+      "id": 1,
+      "products_id": 1,
+      "name": "1",
+      "img": "",
+      "price": 100000,
+      "stock": 10
+    },
+    {
+      "id": 1,
+      "products_id": 1,
+      "name": "2",
+      "img": "",
+      "price": 120000,
+      "stock": 8
+    },
+    {
+      "id": 2,
+      "products_id": 1,
+      "name": "1",
+      "img": "",
+      "price": 150000,
+      "stock": 15
+    },
+    {
+      "id": 2,
+      "products_id": 1,
+      "name": "3",
+      "img": "",
+      "price": 180000,
+      "stock": 5
+    },
+    {
+      "id": 3,
+      "products_id": 1,
+      "name": "2",
+      "img": "",
+      "price": 200000,
+      "stock": 12
+    },
+    {
+      "id": 3,
+      "products_id": 1,
+      "name": "3",
+      "img": "",
+      "price": 220000,
+      "stock": 7
+    },
+    {
+      "id": 4,
+      "products_id": 1,
+      "name": "1",
+      "img": "",
+      "price": 130000,
+      "stock": 9
+    },
+    {
+      "id": 4,
+      "products_id": 1,
+      "name": "2",
+      "img": "",
+      "price": 140000,
+      "stock": 6
+    },
+    {
+      "id": 5,
+      "products_id": 1,
+      "name": "3",
+      "img": "",
+      "price": 160000,
+      "stock": 10
+    },
+    {
+      "id": 5,
+      "products_id": 1,
+      "name": "1",
+      "img": "",
+      "price": 170000,
+      "stock": 4
+    },
+    {
+      "id": 6,
+      "products_id": 1,
+      "name": "2",
+      "img": "",
+      "price": 210000,
+      "stock": 11
+    },
+    {
+      "id": 6,
+      "products_id": 1,
+      "name": "3",
+      "img": "",
+      "price": 230000,
+      "stock": 6
+    },
+    {
+      "id": 7,
+      "products_id": 1,
+      "name": "1",
+      "img": "",
+      "price": 250000,
+      "stock": 8
+    },
+    {
+      "id": 7,
+      "products_id": 1,
+      "name": "2",
+      "img": "",
+      "price": 270000,
+      "stock": 5
+    },
+    {
+      "id": 8,
+      "products_id": 1,
+      "name": "3",
+      "img": "",
+      "price": 290000,
+      "stock": 9
+    },
+    {
+      "id": 8,
+      "products_id": 1,
+      "name": "1",
+      "img": "",
+      "price": 310000,
+      "stock": 3
+    },
+    {
+      "id": 9,
+      "products_id": 1,
+      "name": "2",
+      "img": "",
+      "price": 330000,
+      "stock": 12
+    },
+    {
+      "id": 9,
+      "products_id": 1,
+      "name": "3",
+      "img": "",
+      "price": 350000,
+      "stock": 7
+    },
+    {
+      "id": 10,
+      "products_id": 1,
+      "name": "1",
+      "img": "",
+      "price": 370000,
+      "stock": 6
+    },
+    {
+      "id": 10,
+      "products_id": 1,
+      "name": "2",
+      "img": "",
+      "price": 390000,
+      "stock": 4
+    }
+  ],
+  "ratings": [
+    {
+      "product_id": 10,
+      "user_id": 1,
+      "user_name": "Quá nhàn dỗi",
+      "comment": "fasdfad",
+      "parent_id": null,
+      "created_at": "2025-03-28T11:07:37.799Z",
+      "rating": 3,
+      "id": 1
+    },
+    {
+      "product_id": 10,
+      "user_id": 1,
+      "user_name": "Quá nhàn dỗi",
+      "comment": "asdfasdfasdfasdfasdfasdfasdf",
+      "parent_id": 1,
+      "created_at": "2025-03-28T11:07:44.463Z",
+      "id": 2
+    },
+    {
+      "product_id": 2,
+      "user_id": 1,
+      "user_name": "Quá nhàn dỗi",
+      "comment": "sdsdsdqww",
+      "parent_id": null,
+      "created_at": "2025-03-28T14:50:59.781Z",
+      "rating": 5,
+      "id": 3,
+      "updated_at": "2025-03-28T14:51:11.732Z"
+    }
+  ],
+  "post_categories": [
+    {
+      "category_id": 1,
+      "name": "Nội thất phòng khách",
+      "parent_id": null
+    },
+    {
+      "category_id": 2,
+      "name": "Bàn ghế gỗ",
+      "parent_id": 1
+    },
+    {
+      "category_id": 3,
+      "name": "Kệ tivi gỗ",
+      "parent_id": 1
+    },
+    {
+      "category_id": 4,
+      "name": "Tủ trang trí",
+      "parent_id": 1
+    },
+    {
+      "category_id": 5,
+      "name": "Nội thất phòng ngủ",
+      "parent_id": null
+    },
+    {
+      "category_id": 6,
+      "name": "Giường gỗ",
+      "parent_id": 5
+    },
+    {
+      "category_id": 7,
+      "name": "Tủ quần áo gỗ",
+      "parent_id": 5
+    },
+    {
+      "category_id": 8,
+      "name": "Bàn trang điểm gỗ",
+      "parent_id": 5
+    },
+    {
+      "category_id": 9,
+      "name": "Nội thất phòng ăn",
+      "parent_id": null
+    },
+    {
+      "category_id": 10,
+      "name": "Bàn ăn gỗ",
+      "parent_id": 9
+    },
+    {
+      "category_id": 11,
+      "name": "Tủ bếp gỗ",
+      "parent_id": 9
+    },
+    {
+      "category_id": 12,
+      "name": "Kệ rượu gỗ",
+      "parent_id": 9
+    },
+    {
+      "category_id": 13,
+      "name": "Nội thất văn phòng",
+      "parent_id": null
+    },
+    {
+      "category_id": 14,
+      "name": "Bàn làm việc gỗ",
+      "parent_id": 13
+    },
+    {
+      "category_id": 15,
+      "name": "Ghế văn phòng gỗ",
+      "parent_id": 13
+    },
+    {
+      "category_id": 16,
+      "name": "Tủ tài liệu gỗ",
+      "parent_id": 13
+    },
+    {
+      "category_id": 17,
+      "name": "Nội thất ngoài trời",
+      "parent_id": null
+    },
+    {
+      "category_id": 18,
+      "name": "Bàn ghế sân vườn gỗ",
+      "parent_id": 17
+    },
+    {
+      "category_id": 19,
+      "name": "Xích đu gỗ",
+      "parent_id": 17
+    },
+    {
+      "category_id": 20,
+      "name": "Chòi nghỉ gỗ",
+      "parent_id": 17
+    }
+  ],
+  "favorites": [
+    {
+      "id": 1,
+      "product_id": 1,
+      "user_id": 1,
+      "created_at": "2024-03-20 10:00:00"
+    },
+    {
+      "id": 2,
+      "user_id": 2,
+      "product_id": 2,
+      "created_at": "2024-03-20 10:05:00"
+    },
+    {
+      "id": 3,
+      "user_id": 3,
+      "product_id": 3,
+      "created_at": "2024-03-20 10:10:00"
+    },
+    {
+      "id": 4,
+      "user_id": 4,
+      "product_id": 4,
+      "created_at": "2024-03-20 10:15:00"
+    },
+    {
+      "id": 5,
+      "user_id": 5,
+      "product_id": 5,
+      "created_at": "2024-03-20 10:20:00"
+    },
+    {
+      "id": 6,
+      "user_id": 6,
+      "product_id": 5,
+      "created_at": "2024-03-20 10:25:00"
+    },
+    {
+      "id": 7,
+      "user_id": 7,
+      "product_id": 6,
+      "created_at": "2024-03-20 10:30:00"
+    },
+    {
+      "id": 8,
+      "user_id": 8,
+      "product_id": 10,
+      "created_at": "2024-03-20 10:35:00"
+    },
+    {
+      "id": 9,
+      "user_id": 9,
+      "product_id": 7,
+      "created_at": "2024-03-20 10:40:00"
+    },
+    {
+      "id": 10,
+      "user_id": 10,
+      "product_id": 8,
+      "created_at": "2024-03-20 10:45:00"
+    },
+    {
+      "id": 11,
+      "user_id": 1,
+      "product_id": 9,
+      "created_at": "2024-03-20 10:50:00"
+    },
+    {
+      "id": 12,
+      "user_id": 2,
+      "product_id": 11,
+      "created_at": "2024-03-20 10:55:00"
+    },
+    {
+      "id": 13,
+      "user_id": 3,
+      "product_id": 2,
+      "created_at": "2024-03-20 11:00:00"
+    },
+    {
+      "id": 14,
+      "user_id": 4,
+      "product_id": 3,
+      "created_at": "2024-03-20 11:05:00"
+    },
+    {
+      "id": 15,
+      "user_id": 5,
+      "product_id": 4,
+      "created_at": "2024-03-20 11:10:00"
+    },
+    {
+      "id": 16,
+      "user_id": 6,
+      "product_id": 5,
+      "created_at": "2024-03-20 11:15:00"
+    },
+    {
+      "id": 17,
+      "user_id": 7,
+      "product_id": 6,
+      "created_at": "2024-03-20 11:20:00"
+    },
+    {
+      "id": 18,
+      "user_id": 8,
+      "product_id": 15,
+      "created_at": "2024-03-20 11:25:00"
+    },
+    {
+      "id": 19,
+      "user_id": 9,
+      "product_id": 12,
+      "created_at": "2024-03-20 11:30:00"
+    },
+    {
+      "id": 20,
+      "user_id": 10,
+      "product_id": 16,
+      "created_at": "2024-03-20 11:35:00"
+    },
+    {
+      "user_id": 1,
+      "product_id": 5,
+      "created_at": "2025-03-21T19:03:47.297Z",
+      "id": 21
+    },
+    {
+      "user_id": 1,
+      "product_id": 5,
+      "created_at": "2025-03-21T19:03:50.128Z",
+      "id": 22
+    },
+    {
+      "user_id": 1,
+      "product_id": 5,
+      "created_at": "2025-03-21T19:10:01.196Z",
+      "id": 23
+    },
+    {
+      "user_id": 1,
+      "product_id": 5,
+      "created_at": "2025-03-21T19:10:03.223Z",
+      "id": 24
+    },
+    {
+      "user_id": 1,
+      "product_id": 3,
+      "created_at": "2025-03-21T19:14:39.293Z",
+      "id": 25
+    },
+    {
+      "user_id": 1,
+      "product_id": 4,
+      "created_at": "2025-03-21T19:25:45.643Z",
+      "id": 26
+    },
+    {
+      "user_id": 1,
+      "product_id": 20,
+      "created_at": "2025-03-21T20:50:29.208Z",
+      "id": 27
+    },
+    {
+      "user_id": 2,
+      "product_id": 7,
+      "created_at": "2025-03-27T08:26:49.861Z",
+      "id": 28
+    },
+    {
+      "user_id": 2,
+      "product_id": 4,
+      "created_at": "2025-03-27T08:32:21.862Z",
+      "id": 29
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "post_id": 1,
+      "user_id": 2,
+      "content": "Bài viết rất hay!",
+      "created_at": "2024-03-20 09:00:00"
+    },
+    {
+      "id": 2,
+      "post_id": 2,
+      "user_id": 3,
+      "content": "Cảm ơn tác giả!",
+      "created_at": "2024-03-20 09:05:00"
+    },
+    {
+      "id": 3,
+      "post_id": 3,
+      "user_id": 4,
+      "content": "Thông tin hữu ích quá!",
+      "created_at": "2024-03-20 09:10:00"
+    },
+    {
+      "id": 4,
+      "post_id": 4,
+      "user_id": 5,
+      "content": "Mình rất thích nội dung này!",
+      "created_at": "2024-03-20 09:15:00"
+    },
+    {
+      "id": 5,
+      "post_id": 5,
+      "user_id": 6,
+      "content": "Tuyệt vời, mong có thêm bài viết mới!",
+      "created_at": "2024-03-20 09:20:00"
+    },
+    {
+      "id": 6,
+      "post_id": 6,
+      "user_id": 7,
+      "content": "Cần thêm thông tin chi tiết hơn!",
+      "created_at": "2024-03-20 09:25:00"
+    },
+    {
+      "id": 7,
+      "post_id": 7,
+      "user_id": 8,
+      "content": "Bài viết rất bổ ích!",
+      "created_at": "2024-03-20 09:30:00"
+    },
+    {
+      "id": 8,
+      "post_id": 8,
+      "user_id": 9,
+      "content": "Mình có thể chia sẻ bài này không?",
+      "created_at": "2024-03-20 09:35:00"
+    },
+    {
+      "id": 9,
+      "post_id": 9,
+      "user_id": 10,
+      "content": "Cảm ơn bạn đã chia sẻ!",
+      "created_at": "2024-03-20 09:40:00"
+    },
+    {
+      "id": 10,
+      "post_id": 10,
+      "user_id": 1,
+      "content": "Chủ đề này rất hay!",
+      "created_at": "2024-03-20 09:45:00"
+    },
+    {
+      "id": 11,
+      "post_id": 11,
+      "user_id": 2,
+      "content": "Bài viết đáng đọc!",
+      "created_at": "2024-03-20 09:50:00"
+    },
+    {
+      "id": 12,
+      "post_id": 12,
+      "user_id": 3,
+      "content": "Mong tác giả viết thêm!",
+      "created_at": "2024-03-20 09:55:00"
+    },
+    {
+      "id": 13,
+      "post_id": 13,
+      "user_id": 4,
+      "content": "Bài viết giúp ích rất nhiều!",
+      "created_at": "2024-03-20 10:00:00"
+    },
+    {
+      "id": 14,
+      "post_id": 14,
+      "user_id": 5,
+      "content": "Đọc xong mình hiểu rõ hơn!",
+      "created_at": "2024-03-20 10:05:00"
+    },
+    {
+      "id": 15,
+      "post_id": 15,
+      "user_id": 6,
+      "content": "Nội dung có đầu tư!",
+      "created_at": "2024-03-20 10:10:00"
+    },
+    {
+      "id": 16,
+      "post_id": 16,
+      "user_id": 7,
+      "content": "Mình sẽ giới thiệu bài này!",
+      "created_at": "2024-03-20 10:15:00"
+    },
+    {
+      "id": 17,
+      "post_id": 17,
+      "user_id": 8,
+      "content": "Có ai có thêm tài liệu không?",
+      "created_at": "2024-03-20 10:20:00"
+    },
+    {
+      "id": 18,
+      "post_id": 18,
+      "user_id": 9,
+      "content": "Đây là chủ đề mình quan tâm!",
+      "created_at": "2024-03-20 10:25:00"
+    },
+    {
+      "id": 19,
+      "post_id": 19,
+      "user_id": 10,
+      "content": "Cảm ơn vì bài viết!",
+      "created_at": "2024-03-20 10:30:00"
+    },
+    {
+      "id": 20,
+      "post_id": 20,
+      "user_id": 1,
+      "content": "Mong tác giả ra nhiều bài hơn!",
+      "created_at": "2024-03-20 10:35:00"
+    }
+  ],
+  "product-list": [
+    {
+      "product_id": 1,
+      "code": "SP001",
+      "name": "Bàn trà gỗ óc chó",
+      "description": "Bàn trà sang trọng làm từ gỗ óc chó tự nhiên.",
+      "category_id": 4,
+      "status": "active",
+      "created_at": "2025-03-18T01:19:30.000Z",
+      "updated_at": "2025-03-18T01:20:10.000Z",
+      "product_detail": {
+        "time": 1710745600000,
+        "blocks": [
+          {
+            "data": {
+              "text": "Bàn trà gỗ óc chó",
+              "level": 2
+            },
+            "type": "header"
+          },
+          {
+            "data": {
+              "text": "Bàn trà gỗ óc chó cao cấp, thiết kế sang trọng, phù hợp với phòng khách hiện đại."
+            },
+            "type": "paragraph"
+          },
+          {
+            "data": {
+              "items": [
+                "Chất liệu: Gỗ óc chó",
+                "Kích thước: 120x60x45 cm",
+                "Bảo hành: 24 tháng"
+              ],
+              "style": "unordered"
+            },
+            "type": "list"
+          }
+        ],
+        "version": "2.27.0"
+      },
+      "total_favorites": 0,
+      "avg_rating": "4.6250",
+      "ratings": [
+        {
+          "id": 1,
+          "rating": 5,
+          "comment": "Bàn trà gỗ óc chó đẹp, chất lượng tốt, đáng tiền.",
+          "user_id": 1,
+          "parent_id": null,
+          "user_name": "admin",
+          "created_at": "2025-03-24 07:45:08.000000"
+        },
+        {
+          "id": 2,
+          "rating": 4,
+          "comment": "Đồng ý với bạn trên, nhưng màu sắc hơi tối hơn so với ảnh.",
+          "user_id": 2,
+          "parent_id": 1,
+          "user_name": "user2",
+          "created_at": "2025-03-24 07:46:05.000000"
+        },
+        {
+          "id": 42,
+          "rating": 5,
+          "comment": "Mình cũng mua rồi, rất ưng ý, màu gỗ đẹp.",
+          "user_id": 3,
+          "parent_id": 1,
+          "user_name": "user3",
+          "created_at": "2025-03-24 07:49:12.000000"
+        },
+        {
+          "id": 45,
+          "rating": 4,
+          "comment": "Tổng thể ổn, nhưng giá hơi cao so với thị trường.",
+          "user_id": 6,
+          "parent_id": 1,
+          "user_name": "user6",
+          "created_at": "2025-03-24 07:49:12.000000"
+        },
+        {
+          "id": 46,
+          "rating": 5,
+          "comment": "Bố mẹ mình rất thích, cảm ơn shop.",
+          "user_id": 7,
+          "parent_id": 1,
+          "user_name": "user7",
+          "created_at": "2025-03-24 07:49:12.000000"
+        },
+        {
+          "id": 47,
+          "rating": 5,
+          "comment": "Sản phẩm đúng mô tả, không có gì để chê cả!",
+          "user_id": 8,
+          "parent_id": 1,
+          "user_name": "user8",
+          "created_at": "2025-03-24 07:49:12.000000"
+        },
+        {
+          "id": 43,
+          "rating": 4,
+          "comment": "Bàn trà gỗ tốt, nhưng giao hàng hơi chậm.",
+          "user_id": 4,
+          "parent_id": 2,
+          "user_name": "user4",
+          "created_at": "2025-03-24 07:49:12.000000"
+        },
+        {
+          "id": 44,
+          "rating": 5,
+          "comment": "Chất liệu đúng như mô tả, cảm giác rất chắc chắn.",
+          "user_id": 5,
+          "parent_id": 2,
+          "user_name": "user5",
+          "created_at": "2025-03-24 07:49:12.000000"
+        }
+      ],
+      "sizes": [
+        {
+          "name": "Nhỏ",
+          "price": 0,
+          "stock": 0,
+          "images": [
+            {
+              "url": "https://placehold.co/600x400/FF5733/FFF?text=Bàn+trà+gỗ+óc+chó",
+              "type": "image"
+            },
+            {
+              "url": "https://placehold.co/600x400/33FF57/FFF?text=Kệ+tivi+gỗ+sồi",
+              "type": "image"
+            }
+          ],
+          "size_id": 1
+        },
+        {
+          "name": "Vừa",
+          "price": 0,
+          "stock": 0,
+          "images": [
+            {
+              "url": "https://placehold.co/600x400/3357FF/FFF?text=Sofa+gỗ+phòng+khách",
+              "type": "image"
+            },
+            {
+              "url": "https://placehold.co/600x400/FFFF33/000?text=Giường+ngủ+gỗ+lim",
+              "type": "image"
+            }
+          ],
+          "size_id": 2
+        },
+        {
+          "name": "Lớn",
+          "price": 0,
+          "stock": 0,
+          "images": [
+            {
+              "url": "https://placehold.co/600x400/FF33FF/FFF?text=Tủ+quần+áo+3+cánh",
+              "type": "image"
+            },
+            {
+              "url": "https://placehold.co/600x400/33FFFF/000?text=Bàn+trang+điểm+gỗ+sồi",
+              "type": "image"
+            }
+          ],
+          "size_id": 3
+        }
+      ]
+    }
+  ]
+}

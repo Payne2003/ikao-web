@@ -1,0 +1,59 @@
+{
+  "name": "ikao-web-frontend",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "engines": {
+    "node": "22.x"
+  },
+  "scripts": {
+    "dev": "concurrently \"vite\" \"json-server --watch db.json -m ./node_modules/json-server-auth --port 3000 --quiet\"",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@ant-design/icons": "^5.6.1",
+    "@reduxjs/toolkit": "^2.6.1",
+    "@tailwindcss/vite": "^4.0.6",
+    "@tanstack/react-query-devtools": "^5.69.0",
+    "antd": "^5.24.4",
+    "axios": "^1.8.2",
+    "clsx": "^2.1.1",
+    "framer-motion": "^12.5.0",
+    "json-server": "0.17.0",
+    "json-server-auth": "^2.1.0",
+    "jwt-decode": "^4.0.0",
+    "lucide-react": "^0.483.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-icons": "^5.5.0",
+    "react-paginate": "^8.3.0",
+    "react-quill": "^2.0.0",
+    "react-redux": "^9.2.0",
+    "react-router-dom": "^7.4.0",
+    "react-toastify": "^11.0.5",
+    "recharts": "^2.15.1",
+    "redux-persist": "^6.0.0",
+    "reselect": "^5.1.1",
+    "swiper": "^11.2.6",
+    "tailwind-scrollbar": "^4.0.1",
+    "tailwind-scrollbar-hide": "^2.0.0",
+    "tailwindcss": "^4.0.15"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.19.0",
+    "@types/react": "^19.0.12",
+    "@types/react-dom": "^19.0.4",
+    "@vitejs/plugin-react-swc": "^3.5.0",
+    "autoprefixer": "^10.4.21",
+    "concurrently": "^9.1.2",
+    "eslint": "^9.19.0",
+    "eslint-plugin-react": "^7.37.4",
+    "eslint-plugin-react-hooks": "^5.0.0",
+    "eslint-plugin-react-refresh": "^0.4.18",
+    "globals": "^15.14.0",
+    "postcss": "^8.5.3",
+    "vite": "^6.1.0"
+  }
+}
